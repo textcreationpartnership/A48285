@@ -1,0 +1,954 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Erastus Senior scholastically demonstrating this conclusion that (admitting their Lambeth records for true) those called bishops here in England are no bishops, either in order or jurisdiction, or so much as legal : wherein is answered to all that hath been said in vindication of them by Mr. Mason in his Vindiciæ ecclesiæ Anglicanæ, Doctor Heylin in his Ecclesiæ restaurata, or Doctor Bramhall ... in his last book intituled, The consecration and succession of Protestant bishops justified : with an appendix containing extracts out of ancient rituals, Greek and Latine, for the form of ordaining bishops, and copies of the acts of Parliament quoted in the third part.</title>
+            <author>Lewgar, John, 1602-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 138 KB of XML-encoded text transcribed from 61 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48285</idno>
+            <idno type="STC">Wing L1832</idno>
+            <idno type="STC">ESTC R3064</idno>
+            <idno type="EEBO-CITATION">12961987</idno>
+            <idno type="OCLC">ocm 12961987</idno>
+            <idno type="VID">96084</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96084)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 388:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Erastus Senior scholastically demonstrating this conclusion that (admitting their Lambeth records for true) those called bishops here in England are no bishops, either in order or jurisdiction, or so much as legal : wherein is answered to all that hath been said in vindication of them by Mr. Mason in his Vindiciæ ecclesiæ Anglicanæ, Doctor Heylin in his Ecclesiæ restaurata, or Doctor Bramhall ... in his last book intituled, The consecration and succession of Protestant bishops justified : with an appendix containing extracts out of ancient rituals, Greek and Latine, for the form of ordaining bishops, and copies of the acts of Parliament quoted in the third part.</title>
+                  <author>Lewgar, John, 1602-1665.</author>
+               </titleStmt>
+               <extent>[16], 103, [1]  p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Lewgar. Cf. DNB.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Errata on p. [1] at end.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mason, Francis, 1566?-1621. --  Vindiciae ecclesiae Anglicanae.</term>
+               <term>Heylyn, Peter, 1600-1662. --  Ecclesia restaurata.</term>
+               <term>Bramhall, John, 1594-1663. --  Consecration and succession of Protestant bishops justified.</term>
+               <term>Church of England --  Bishops.</term>
+               <term>Catholic Church --  Doctrines.</term>
+               <term>Anglican orders.</term>
+               <term>Apostolic succession.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96084:1"/>
+            <pb facs="tcp:96084:1" rendition="simple:additions"/>
+            <p>Eraſtus Senior.</p>
+            <p>Scholaſtically Demonſtrating this Concluſion, that (admitting their <hi>Lambeth</hi> Records for true) thoſe called BISHOPS here in <hi>England,</hi> are no Biſhops, either in <hi>Order,</hi> or <hi>Juriſdiction,</hi> or ſo much as <hi>Legal.</hi>
+            </p>
+            <p>Wherein is anſwered to all that hath been ſaid, in Vindication of them, by Mr. MASON, in his <hi>Vindiciae Eccleſiae Anglicanae,</hi> Doctor HEYLIN, in his <hi>Eccleſia Reſtaurata,</hi> or Do<g ref="char:EOLhyphen"/>ctor BRAMHALL, (then called Biſhop of <hi>DERRY,</hi> now Primate of <hi>ARMAGH,</hi>) in his laſt Book, Intituled, <hi>The Conſecrati<g ref="char:EOLhyphen"/>on and Succeſſion of Proteſtant Biſhops Ju<g ref="char:EOLhyphen"/>ſtified.</hi>
+            </p>
+            <p>With an <hi>Appendix,</hi> containing <hi>Extracts</hi> out of ancient Rituals, Greek and Latine, for the Form of Ordaining Biſhops: And Copies of the Acts of Parliament, quoted in the third Part.</p>
+            <p>Printed in the Year, 1662.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:96084:2"/>
+            <pb facs="tcp:96084:2"/>
+            <head>To the Reader.</head>
+            <p>THe intent of this <hi>Trea<g ref="char:EOLhyphen"/>tiſe,</hi> is onely, of my Charity to my Friends and Countreymen of the Proteſtant Profeſſion, to ſhew them this great Defect in their Church, <hi>the want of Bi<g ref="char:EOLhyphen"/>ſhops,</hi> thereby to invite them into ours, which (even by the confeſſion of her adverſaries) wants them not.</p>
+            <p>And the intent of this <hi>Pre<g ref="char:EOLhyphen"/>face,</hi> is onely to note to them the greatneſs of this defect in their Church, from the hide<g ref="char:EOLhyphen"/>ous
+<pb facs="tcp:96084:3"/>
+Conſequences of it. For if theirs be no Biſhops, ei<g ref="char:EOLhyphen"/>ther in <hi>Order</hi> or <hi>Juriſdiction</hi> (as this diſcourſe undertakes to demonſtrate,) this will follow:</p>
+            <p>Firſt, that theirs being no Biſhops <hi>Ordine,</hi> they cannot validly Ordain, either <hi>Biſhop, Prieſt,</hi> or <hi>Deacon:</hi> and ſo they have none of theſe <hi>Or<g ref="char:EOLhyphen"/>ders</hi> in their Church, nor have had ſince the death of thoſe that were Ordained by our Biſhops.</p>
+            <p>Secondly, that theirs being no Biſhops <hi>Juriſdictione,</hi> (or <hi>Paſtors</hi> of <hi>Cathedral</hi> Church<g ref="char:EOLhyphen"/>es) they cannot validly In<g ref="char:EOLhyphen"/>ſtitute a Paſtor to any <hi>Paro<g ref="char:EOLhyphen"/>chial</hi>
+               <pb facs="tcp:96084:3"/>
+Church (for none but a <hi>Paſtor</hi> can Inſtitute a <hi>Pa<g ref="char:EOLhyphen"/>ſtor:</hi>) and ſo they have no <hi>Paſtors</hi> in their Church, nor have had, ſince the outing of the <hi>Catholique</hi> Biſhops, Par<g ref="char:EOLhyphen"/>ſons, and Vicars, in the be<g ref="char:EOLhyphen"/>ginning of Queen <hi>Elizabeths</hi> Reign.</p>
+            <p>Thirdly, that theirs is no true Church (or Member of the <hi>Catholique,</hi>) for want of <hi>Paſtors,</hi> it being an <hi>eſſen<g ref="char:EOLhyphen"/>tial</hi> part of the Catholique Church.</p>
+            <p>Fourthly, that Salvation cannot be had in their Church; becauſe no Mem<g ref="char:EOLhyphen"/>ber of the <hi>Catholique,</hi> out of which no Salvation.</p>
+            <p>
+               <pb facs="tcp:96084:4"/>Fifthly, that the <hi>beleif</hi> they have of the Scriptures, Trinity, Incarnation, Death, and Merits of Chriſt, and other Myſteries of Chriſtian Religion, is no <hi>Divine,</hi> (or <hi>Supernatural,</hi>) but <hi>Moral</hi> (or <hi>Humane</hi>) Faith onely, (which cannot avail to eter<g ref="char:EOLhyphen"/>nal Salvation:) becauſe they believe them <hi>finally</hi> (or in the laſt reſolution of their Faith into the <hi>witneſs</hi> or <hi>pro<g ref="char:EOLhyphen"/>ponent</hi> of Gods Word to them) upon the teſtimony of <hi>preachers having no miſſion from God.</hi>
+            </p>
+            <p>Sixthly, that the <hi>hope</hi> they have, of remiſſion of Sins, of obtaining Eternal Beatitude
+<pb facs="tcp:96084:4"/>
+by the merits of Chriſt, and of other Evangelical promi<g ref="char:EOLhyphen"/>ſes, is no <hi>Divine,</hi> but <hi>Moral</hi> (or <hi>Natural</hi>) Hope onely, (which hath no efficacy to an eternal recompence:) be<g ref="char:EOLhyphen"/>cauſe it cannot be <hi>Diviner</hi> then the <hi>Faith</hi> is upon which it is and muſt be grounded; and theirs is but <hi>Humane</hi> Faith.</p>
+            <p>Seventhly, that their Mi<g ref="char:EOLhyphen"/>niſters having no power (be<g ref="char:EOLhyphen"/>cauſe no <hi>Prieſts</hi>) to remit Sins; every time they receive the <hi>Communion</hi> (ſince they committed Mortal Sin,) they eat and drink it <hi>unworthily</hi> (and conſequently,<note place="margin">1 Cor. 11.29.</note> 
+               <hi>to their owne Damnation;</hi>) becauſe
+<pb facs="tcp:96084:5"/>
+they preſume to eat and drink of that which they believe to be <hi>the Body and Blood of Chriſt,</hi>
+               <note place="margin">Cate<g ref="char:EOLhyphen"/>chiſm in the Book of Com<g ref="char:EOLhyphen"/>mon-Prayer.</note> 
+               <hi>which is ve<g ref="char:EOLhyphen"/>rily and truly received of the faithful,</hi> with a Soul foul, and abominable to God, with Mortal Sin; as it muſt needs be, becauſe ſince Chriſt Inſtituted the <hi>Word</hi> of Prieſtly Abſolution, for the ordinary means of giving that grace, (<hi>viz.</hi> when he ſaid to his Apoſtles,<note place="margin">S. John 20.22.</note> 
+               <hi>whoſe Sins you remit, they are remit<g ref="char:EOLhyphen"/>ted:</hi>) no Mortal Sin, com<g ref="char:EOLhyphen"/>mitted after Baptiſm, can be remitted but by that means (at leaſt, <hi>in voto;</hi> which can<g ref="char:EOLhyphen"/>not be ſuppoſed in a <hi>wilful</hi>
+               <pb facs="tcp:96084:5"/>
+Proteſtant:) which means (theirs being no Prieſts,) they cannot have in their Church. And for the ſame reaſon, at their Death, they go away with all the Sins up<g ref="char:EOLhyphen"/>on their Soul, that ever they committed.</p>
+            <p>Eighthly, that their Mi<g ref="char:EOLhyphen"/>niſters having no power, (be<g ref="char:EOLhyphen"/>cauſe no Prieſts) to Conſe<g ref="char:EOLhyphen"/>crate Chriſts Body and Blood; they live, and dye, without ever once offering to God that <hi>Sacrifice,</hi> which is the principal and moſt ne<g ref="char:EOLhyphen"/>ceſſary Act of Divine Wor<g ref="char:EOLhyphen"/>ſhip under the New Teſta<g ref="char:EOLhyphen"/>ment (the oblation of the Body and Blood of Chriſt
+<pb facs="tcp:96084:6"/>
+in remembrance of his death) and without ever once parta<g ref="char:EOLhyphen"/>king of that Fleſh and Blood of his,<note place="margin">S. John 6.54.</note> of which he ſaid, <hi>[Ex<g ref="char:EOLhyphen"/>cept ye eat and drink of it, ye ſhall have no life in you.]</hi>
+            </p>
+            <p>Laſtly, that every time any of their Biſhops preſume to Ordain, Confirm, Ex<g ref="char:EOLhyphen"/>communicate, Inſtitute a Parſon, or Vicar, or ex<g ref="char:EOLhyphen"/>erciſe other Act of the Epi<g ref="char:EOLhyphen"/>ſcopal Office; or any of their Miniſters, to Preach, Ba<g ref="char:EOLhyphen"/>ptize, Celebrate publick Di<g ref="char:EOLhyphen"/>vine Service, Conſecrate the Euchariſt, take Confeſſions, give Abſolution, or exerciſe other Act of Prieſtly Functi<g ref="char:EOLhyphen"/>on; ſo often do they com<g ref="char:EOLhyphen"/>mit
+<pb facs="tcp:96084:6"/>
+the hainous Sin of <hi>Sacri<g ref="char:EOLhyphen"/>ledge:</hi> in which the people are involved with them, ſo often as they do communi<g ref="char:EOLhyphen"/>cate with them in, or coope<g ref="char:EOLhyphen"/>rate to, thoſe Sacrilegious Preſumptions.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:96084:7"/>
+            <pb facs="tcp:96084:7"/>
+            <head>The Contents.</head>
+            <list>
+               <label>Chap. 1.</label>
+               <item>PRoving the firſt part of the Concluſi<g ref="char:EOLhyphen"/>on, <hi>the Proteſtant Biſhops are no Biſhops ORDINE:</hi> and urging the firſt Reaſon, the invalidity of the Form. whereby they were Ordained. <hi>page 1</hi>
+               </item>
+               <label>Chap. 2.</label>
+               <item>Replying to Doctor <hi>Bramhall's</hi> An<g ref="char:EOLhyphen"/>ſwer. <hi>5</hi>
+               </item>
+               <label>Chap. 3.</label>
+               <item>Anſwering Doctor <hi>Bramhall's</hi> Alle<g ref="char:EOLhyphen"/>gations for their Form; and in this Chap<g ref="char:EOLhyphen"/>ter, his firſt Allegation, from Chriſts ex<g ref="char:EOLhyphen"/>ample. <hi>9</hi>
+               </item>
+               <label>Chap. 4.</label>
+               <item>Anſwering his ſecond Argument, from the Romane Form. <hi>10</hi>
+               </item>
+               <label>Chap. 5.</label>
+               <item>Anſwering his third Argument, from Cardinal <hi>Pool's</hi> Diſpenſation. <hi>13</hi>
+               </item>
+               <label>
+                  <pb facs="tcp:96084:8"/>
+                  <hi>Chap. 6.</hi>
+               </label>
+               <item>
+                  <g ref="char:V">Ʋ</g>rging the ſecond Reaſon, invalidity of the Miniſter. <hi>21</hi>
+               </item>
+               <label>Chap. 7.</label>
+               <item>Replying to Doctor <hi>Bramhall's</hi> An<g ref="char:EOLhyphen"/>ſwers. <hi>24</hi>
+               </item>
+               <label>Chap. 8.</label>
+               <item>Proving the ſecond part of the Con<g ref="char:EOLhyphen"/>cluſion, <hi>that they are no Biſhops OF<g ref="char:EOLhyphen"/>FICIO,</hi> viz. For want of Juriſdicti<g ref="char:EOLhyphen"/>on in the Conſecrators; and urging the firſt Reaſon, want of the Patriarch's conſent. <hi>30</hi>
+               </item>
+               <label>Chap. 9.</label>
+               <item>
+                  <g ref="char:V">Ʋ</g>rging the ſecond reaſon, their having no Juriſdicton but from the King: and bringing the firſt proof of it, from their own acts and confeſſions. <hi>34</hi>
+               </item>
+               <label>Chap. 10.</label>
+               <item>Bringing the ſecond Proof, from other publick Acts. <hi>38</hi>
+               </item>
+               <label>Chap. 11.</label>
+               <item>Bringing the third Proof from the Con<g ref="char:EOLhyphen"/>ſecration of <hi>Matthew Parker. 39</hi>
+               </item>
+               <label>Chap. 12.</label>
+               <item>Replying to Doctor <hi>Heylins</hi> Anſwer. <hi>45</hi>
+               </item>
+               <label>Chap. 13.</label>
+               <item>Proving the third part of the Concluſi<g ref="char:EOLhyphen"/>on,
+<pb facs="tcp:96084:8"/>
+                  <hi>that they are no legal Biſhops:</hi> and urging the firſt Reaſon, becauſe the Act of <hi>H. 8.</hi> for the <hi>Roman</hi> Form, is ſtill in force. <hi>49</hi>
+               </item>
+               <label>Chap. 14.</label>
+               <item>
+                  <g ref="char:V">Ʋ</g>rging the ſecond Reaſon, becauſe the Act of <hi>Edw. 6.</hi> for the Book of Ordina<g ref="char:EOLhyphen"/>tion, being repealed by Queen <hi>Mary,</hi> is not yet revived; and proving the firſt part of the reaſon, that it was not revived afore <hi>8. Eliz. 50</hi>
+               </item>
+               <label>Chap. 15.</label>
+               <item>Replying to Doctor <hi>Bramhall</hi>'s Anſwer. <hi>52</hi>
+               </item>
+               <label>Chap. 16.</label>
+               <item>Noting Doctor <hi>Heylin</hi>'s varying from himſelf, and falſifying the Act of <hi>8. Eliz. 58</hi>
+               </item>
+               <label>Chap. 17.</label>
+               <item>Confirming the Argument, by the pro<g ref="char:EOLhyphen"/>ceedings in <hi>Bonners</hi> Caſe; and urging the firſt inference, for the opinion of the Judges. <hi>60</hi>
+               </item>
+               <label>Chap. 18.</label>
+               <item>Refuting the ſhifts uſed by Mr. <hi>Ma<g ref="char:EOLhyphen"/>ſon,</hi> and Doctor <hi>Heylin</hi> to evade this inference. <hi>63</hi>
+               </item>
+               <label>Chap. 19.</label>
+               <item>
+                  <g ref="char:V">Ʋ</g>rging the ſecond inference, for the
+<pb facs="tcp:96084:9"/>
+opinion of the Parliament. <hi>67</hi>
+               </item>
+               <label>Chap. 20.</label>
+               <item>Refuting the ſhifts deviſed to evade this inference. <hi>72</hi>
+               </item>
+               <label>Chap. 21.</label>
+               <item>Proving the ſecond part of the reaſon, that it was not revived then. <hi>76</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:96084:9"/>
+            <head>
+               <hi>The firſt Chapter.</hi> Proving the firſt part of the Concluſion, <hi>the Proteſtant Biſhops are no Biſhops ORDINE:</hi> and urging the firſt Rea<g ref="char:EOLhyphen"/>ſon, the invalidity of the form whereby they were Ordained.</head>
+            <p>THere is a Biſhop <hi>Ordine,</hi> and there is a Biſhop <hi>Officio (Juriſdictione,</hi> or <hi>ſimpliciter.</hi>) A Biſhop <hi>Or<g ref="char:EOLhyphen"/>dine,</hi> I call him whoſe Ordina<g ref="char:EOLhyphen"/>tion was eſſentially valid, and ſo imprint<g ref="char:EOLhyphen"/>ed the Epiſcopall Character. As <hi>ex. gr.</hi> if one ſhould be Ordained, in due matter and form, by one or more Biſhops ha<g ref="char:EOLhyphen"/>ving no Juriſdiction, or ſhould be Ordai<g ref="char:EOLhyphen"/>ned without a Title: or ſhould be Conſe<g ref="char:EOLhyphen"/>crated Biſhop of ſome See, and afterward reſign it, or be deprived of it, or degraded. And Biſhops in this ſenſe, are neceſſary to the Ordaining of Biſhops, Prieſts, and Deacons; and conſequently to the <hi>inte<g ref="char:EOLhyphen"/>rior</hi> eſſentiall form of the Church, as it conſiſts in a Hierarchy of <hi>Order.</hi> A Biſhop <hi>Officio,</hi> I call him who was validly Con<g ref="char:EOLhyphen"/>firmed, and Conſecrated Biſhop, or Arch<g ref="char:EOLhyphen"/>biſhop, and Paſtour, of that See (or flock
+<pb n="2" facs="tcp:96084:10"/>
+of Clergy and people) whereof he is ſti<g ref="char:EOLhyphen"/>led: as <hi>ex. gr. Canterbury, London, &amp;c.</hi> and continues actuall Biſhop of it, or of ſome other. And Biſhops in this ſenſe, are neceſſary to the Conſecrating of Archiſhops and Biſhops of Cathedrall or Metropoliticall Sees, and to the Inſtitu<g ref="char:EOLhyphen"/>ting of Paſtors to Parochiall Churches; and conſequently to the <hi>exterior</hi> eſſential form of the Church, as it conſiſts in a Hie<g ref="char:EOLhyphen"/>rarchy of <hi>Juriſdiction.</hi>
+            </p>
+            <p>The firſt part then of my Concluſion is, <hi>that Proteſtant Biſhops are no Biſhops Ordine.</hi> My reaſons are two.</p>
+            <p>The firſt is, becauſe the Proteſtant form for Ordaining Biſhops is eſſentially inva<g ref="char:EOLhyphen"/>lid. For the eſſential form of Ordination, is ſome <hi>fit</hi> words, that is, <hi>words fignifying the Order given.</hi>
+               <note place="margin">Mr. Ma<g ref="char:EOLhyphen"/>ſon, l. <hi>2.</hi> c. <hi>16.</hi> n. <hi>6.</hi>
+               </note> So Proteſtants them<g ref="char:EOLhyphen"/>ſelves. [<hi>Non verba quaelibet huic inſtituto</hi> (for making a Prieſt, and there is the ſame reaſon of a Biſhop) <hi>inſervire poterunt, ſed quae ad Ordinis conferendi poteſtatem exprimendam ſunt accomodata. Dum per Apoſtolum</hi> (Tit. 1.5.) <hi>mandavit Chriſtus ut crearentur Miniſtri, mandavit impli<g ref="char:EOLhyphen"/>citè, ut inter Ordinandum verba adhiberen<g ref="char:EOLhyphen"/>tur idonea, id eſt, quae dati tum Ordinis po<g ref="char:EOLhyphen"/>teſtatem complecterentur, Iſtiuſmodi autem
+<pb n="3" facs="tcp:96084:10"/>
+verba, quatenus datam poteſtatem denotant, ſunt illius ordinis forma eſſentialis.</hi>] And the reaſon is evident, becauſe Ordination being a Sacrament, (as Proteſtants them<g ref="char:EOLhyphen"/>ſelves do,<note n="*" place="margin">Id. l. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. n. <hi>8.</hi> &amp; D. Bramb. p. <hi>96.</hi>
+               </note> and muſt confeſs, for elſe it is no argument of the parties having any authority from God more then another hath who is not Ordain'd) that is, a viſi<g ref="char:EOLhyphen"/>ble ſign of an inviſible grace or power given by it; there muſt be ſome viſible ſign in it to ſignifie the power given, for it cannot be a ſign of what it ſignifies not; and elſe, the ſame Rite as ordains a man a Deacon, would ordain him Prieſt and Biſhop. The eſſential <hi>matter</hi> then of Epiſcopal Ordination (which is impoſition of hands) being a dumb ſign, and common to divers Orders, (as Bi<g ref="char:EOLhyphen"/>ſhops, Prieſts, Deacons) and to divers other graces, as Confirming, curing the ſick, &amp;c. of neceſſity there muſt be ſome words joyn'd with it as its <hi>form,</hi> to inter<g ref="char:EOLhyphen"/>pret it, and determine it to the grace of Epiſcopal Order, which no words can poſſibly do, but ſuch as ſignifie that Or<g ref="char:EOLhyphen"/>der, either in the natural ſenſe of the words, as <hi>ex gr. Be thou a Biſhop, or I ordain thee a Biſhop,</hi> &amp;c. or by the Inſti<g ref="char:EOLhyphen"/>tution of Chriſt, as theſe words <hi>[I bap<g ref="char:EOLhyphen"/>tize
+<pb n="4" facs="tcp:96084:11"/>
+thee, &amp;c.]</hi> ſignifie the grace of regeneration, becauſe inſtituted by Chriſt to that end.</p>
+            <p>Now in the Proteſtant form, there is no word ſignifying Epiſcopal Order in the natural ſenſe of the words. For this is their whole form, <hi>[Take the Holy Ghoſt, and remember that thou ſtir up the grace of God which is in thee by Impoſition of hands; for God hath not given us the Spirit of fear, but of power, and love, and ſoberneſs.]</hi> In which is nothing but what may be ſaid to any Prieſt or Deacon at his Ordaining, nay or to any childe at Confirming. Nor is there any colour of ground to ſay that theſe words ſignifie it <hi>ex inſtituto Chriſti;</hi> being there is no te<g ref="char:EOLhyphen"/>ſtimony in Scripture of ſuch his inſtitu<g ref="char:EOLhyphen"/>tion, nor did he ever uſe theſe words but once to his Apoſtles, when he gave them power of remitting ſins, which is a pow<g ref="char:EOLhyphen"/>er of Prieſtly Order onely; nor do we finde that any of the Apoſtles ever uſed them;<note place="margin">De ordi<g ref="char:EOLhyphen"/>nat. Sacr. par. <hi>2.</hi>
+               </note> and it appears by all the Rituals now extant, (ſet forth by <hi>Morinus</hi>) that no Church, Greek, or Latine, ever uſed theſe words for ſo much as any part of the Ceremony for ordaining a Biſhop, for 1200. years, nor any of the Greek
+<pb n="5" facs="tcp:96084:11"/>
+Churches yet to this day; nor therefore doth the Roman Church (which intro<g ref="char:EOLhyphen"/>duced them within theſe 400. years) uſe them as eſſential form, as ſhall be ſeen more anon.</p>
+         </div>
+         <div n="2" type="chapter">
+            <head>The ſecond Chapter. <hi>Replying to Dr</hi> Bramhall's <hi>Anſwer.</hi>
+            </head>
+            <p>TO the foregoing Objection he makes this Anſwer.<note place="margin">Pag. 222</note>
+            </p>
+            <p>
+               <hi>Anſ.</hi> If theſe words be conſidered ſingly in a divided ſenſe from the reſt of the Office, there is nothing in our form, which doth diſtinctly and reciprocally expreſs Epiſcopal power. But if theſe words be conſidered conjoyntly in a compounded ſenſe, there is enough to expreſs it diſtinctly. 1. The party is preſented to be made a Biſhop. 2. The Kings Letters Pattents are read, requi<g ref="char:EOLhyphen"/>ring them to Conſecrate him Biſhop. 3. He takes his Oath of Canonicall Obedience, as Biſhop elect. 4. The Aſ<g ref="char:EOLhyphen"/>ſembly is exhorted to pray for him, be<g ref="char:EOLhyphen"/>fore he be admitted to that Office, (that is, of a Biſhop.) 5. In the Letany, he is prayed for as Biſhop elect, that he may
+<pb n="6" facs="tcp:96084:12"/>
+have grace to diſcharge that Office (of a Biſhop.) 6. After the Letany, he is prayed for, as called to the Office of a Biſhop. 7. The Archbiſhop tells him he muſt examine him before he admit him to that adminiſtration whereunto he is called, and after examination prayes for grace for him to uſe the au<g ref="char:EOLhyphen"/>thority committed to him, as a prudent and faithfull Steward; this Authority can be no other then Epiſcopal Autho<g ref="char:EOLhyphen"/>rity, nor this Stewardſhip any other thing then Epiſcopacy. 8. Laſtly, after impoſition of hands, with thoſe words, <hi>Receive the Holy Ghoſt, &amp;c.</hi> follows the tradition of the Bible into his hands, with an exhortation to behave himſelf toward the flock as a Paſtor. All which implies Epiſcopall Authority.</p>
+            <p>
+               <hi>Repl.</hi> This anſwer, is either falſe, or impertinent, or a granting of the Argu<g ref="char:EOLhyphen"/>ment. For if his meaning be, that there are no words in their eſſential form, that expreſs it, this is a granting of the argu<g ref="char:EOLhyphen"/>ment; which proceeded onely upon their eſſential form; the other expreſſions of it in the reſt of the office, ſignifying no<g ref="char:EOLhyphen"/>thing to the purpoſe, becauſe not ſacra<g ref="char:EOLhyphen"/>mentall. For the conjunction of theſe
+<pb n="7" facs="tcp:96084:12"/>
+words with thoſe other, being not <hi>for<g ref="char:EOLhyphen"/>mal</hi> (which is impoſſible betwixt words ſacramentall, as theſe are, and not ſacra<g ref="char:EOLhyphen"/>mentall, as all the other are,) but onely <hi>materiall,</hi> or <hi>locall,</hi> (becauſe contained within the ſame Office,) their ſignifying of it can contribute or cooperate no<g ref="char:EOLhyphen"/>thing to make theſe ſignifie it one whit the more then they would do taken ſin<g ref="char:EOLhyphen"/>gly by themſelves. And ſo if theſe, ta<g ref="char:EOLhyphen"/>ken ſingly by themſelves, do not ſignifie it, (as he confeſſes they do not) then ta<g ref="char:EOLhyphen"/>ken ſingly by themſelves they give it not (becauſe they give no more then they ſignifie:) and if taken ſingly by them<g ref="char:EOLhyphen"/>ſelves they give it not, then none is gi<g ref="char:EOLhyphen"/>ven, becauſe none of the other can give any. To make this more plain. Sup<g ref="char:EOLhyphen"/>poſe all the other expreſſions had been as they are, and the words of their eſſen<g ref="char:EOLhyphen"/>tial form had been onely theſe <hi>[Be thou an Officer in the Church; or take autho<g ref="char:EOLhyphen"/>rity to ſome adminiſtration; or God make thee an honeſt man,]</hi> or ſome ſuch like, mentioning no power of Order in cer<g ref="char:EOLhyphen"/>tain: will he ſay, they would be valid to make a Biſhop, by reaſon of their con<g ref="char:EOLhyphen"/>junction with the other expreſſions? I ſuppoſe he will not, becauſe theſe ſignifie
+<pb n="8" facs="tcp:96084:13"/>
+no power given of a Biſhop. And if thoſe would not, no more will theſe, for the ſame reaſon.</p>
+            <p>If his meaning be, that there are other words in the Office, which expreſs it as intended, deſired, prayed for, or ſuppo<g ref="char:EOLhyphen"/>ſed to be given, by impoſition of hands, and thoſe words, <hi>Receive the Holy Ghoſt, &amp;c.</hi> this is impertinent; becauſe the ar<g ref="char:EOLhyphen"/>gument proceeded onely upon the not expreſſing it as <hi>given.</hi>
+            </p>
+            <p>If his meaning be, that though theſe words do not, yet they are joyn'd with other words, which expreſs it as <hi>given;</hi> this is falſe: becauſe none of thoſe other expreſſions by him named, do expreſs it as given, or intended to be given by any of themſelves, but onely by the im<g ref="char:EOLhyphen"/>poſition of hands, and the words joyn'd with it. For in the ſeventh, which im<g ref="char:EOLhyphen"/>mediately precedes Impoſition of hands, the Archbiſhop tells the party, he <hi>muſt examine him before he admit him to that adminiſtration:</hi> and after that, onely prayer is made for <hi>grace that he may diſ<g ref="char:EOLhyphen"/>charge the Office</hi> (meaning, after it ſhould be committed to him) <hi>as he ought.</hi> And in the eighth which imme<g ref="char:EOLhyphen"/>diately follows the words of Ordina<g ref="char:EOLhyphen"/>tion,
+<pb n="9" facs="tcp:96084:13"/>
+he is onely <hi>exhorted to behave him ſelf as a good Paſtor.</hi>
+            </p>
+            <p>If his meaning be, that theſe words do in ſome part expreſs it as <hi>given,</hi> and the other in ſome other part, ſo as betwixt them they make up an expreſſion of it as <hi>given;</hi> this is alſo falſe: becauſe theſe expreſs it not at all, and none of the other expreſs it as <hi>given.</hi>
+            </p>
+            <p>So take his anſwer in what ſenſe you will, it is no anſwer to the Objection.</p>
+         </div>
+         <div n="3" type="chapter">
+            <head>
+               <hi>The third Chapter.</hi> Anſwering Dr. <hi>Bramhalls</hi> Allegations for their Form; and in this Chapter, his firſt Allegation, from Chriſts example.</head>
+            <p>TO prop up his Anſwer (which he ſaw needed it) he addes to it three Arguments for the validity of their Form; but very weak ones all, as will appear by the Anſwers.</p>
+            <p n="1">1. Arg. <hi>You may except againſt Chriſts own form of Ordaining his Apoſtles, if you will: but if that be a ſufficient form, ours is.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> This ſuppoſes that he ordained them Biſhops, by theſe words; <hi>Receive
+<pb n="10" facs="tcp:96084:14"/>
+the Holy Ghoſt:</hi> which is a falſe ſuppoſi<g ref="char:EOLhyphen"/>tion. For he ordained them not Biſhops, by theſe or any other Sacramental words: nay, 'tis moſt probable he made not one of them a Biſhop, but Saint <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> and him he made by thoſe words <hi>[Paſce oves meas.]</hi>
+            </p>
+         </div>
+         <div n="4" type="chapter">
+            <head>
+               <hi>The fourth Chapter.</hi> Anſwering his ſecond Argument, from the Romane Forme.</head>
+            <p n="2">2. Arg. <hi>THe Form uſed at the ſame time when hands are impo<g ref="char:EOLhyphen"/>ſed, is the ſame both in our Form and yours. [Receive the Holy Ghoſt.] And ſo as much in our Form to expreſs Epiſcopal power as in yours; and if yours be valid ours is.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> If by, <hi>the ſame time,</hi> he mean the ſame time <hi>Phyſical,</hi> (or <hi>Phyſicè lo<g ref="char:EOLhyphen"/>quendo</hi>) I deny his Conſequence <hi>[there<g ref="char:EOLhyphen"/>fore as much in our Form as yours:]</hi> be<g ref="char:EOLhyphen"/>cauſe their entire eſſential Form is uſed at the ſame time when hands are impo<g ref="char:EOLhyphen"/>ſed, which ours is not, as we ſhall ſee anon. If by, <hi>the ſame time,</hi> he mean the ſame time <hi>Moral</hi> (or <hi>Moraliter lo<g ref="char:EOLhyphen"/>quendo,</hi>
+               <pb n="11" facs="tcp:96084:14"/>
+that is, continued without any moral interruption:) his Antecedent is a miſtake. For our Form is not thoſe words alone <hi>[Accipe Spiritum San<g ref="char:EOLhyphen"/>ctum]</hi> nay, perhaps they are no part of our eſſential Form (for the reaſon given <hi>ſupra,</hi>
+               <note place="margin">
+                  <hi>Cap.</hi> 1.</note>) but thoſe that are immediately joyned with them, to wit, the Prayer, <hi>Propitiare Domine,</hi> &amp;c anciently called, the <hi>Benediction;</hi>
+               <note place="margin">Conc. Car. <hi>4.</hi> &amp; Or<g ref="char:EOLhyphen"/>do Roman.</note> which hath been our Form ever ſince Saint <hi>Peters</hi> time, and (for the ſubſtance of it) is the ſame with that which is uſed over all the Eaſterne Churches, and which anciently (until within theſe four hundred years) our Church uſed at the ſame <hi>(Phyſical)</hi> time when hands were impoſed; onely in lat<g ref="char:EOLhyphen"/>ter ages, for the greater ſolemnity of the Ceremony, and fuller ſignification of the grace of this Sacrament, (the gi<g ref="char:EOLhyphen"/>ving of the Holy Ghoſt) ſhe hath inter<g ref="char:EOLhyphen"/>poſed thoſe words <hi>[Accipe Spiritum Sanctum]</hi> and perhaps by way of Prayer onely, and appointed them, and them alone, to be pronounced at the ſame time when hands are impoſed, and to be pronounced by all the Biſhops aſſiſting; and then, one of the Biſhops onely (as the ancient Law and Cuſtom was) to
+<pb n="12" facs="tcp:96084:15"/>
+pronounce the words of Ordination, <hi>viz. [Propitiare Domine ſupplicationibus noſtris,</hi>
+               <note place="margin">
+                  <g ref="char:V">Ʋ</g>no ſuper cum fun<g ref="char:EOLhyphen"/>dente Be<g ref="char:EOLhyphen"/>nedictio<g ref="char:EOLhyphen"/>nem. Conc. Carth. <hi>4.</hi>
+               </note> 
+               <hi>&amp; inclinato ſuper hunc famulum tuum cornu gratiae Sacerdotalis, bene</hi>
+               <g ref="char:cross">✚</g> 
+               <hi>dictionis tuae in eum infunde virtutem. Per, &amp;c.]</hi> Anon after which follows the other Prayer, anciently called, <hi>Conſe<g ref="char:EOLhyphen"/>cratio Epiſcopi;</hi> to wit, [<hi>Deus honorum omnium,</hi> &amp;c. <hi>tribuas ei Cathedram Epiſ<g ref="char:EOLhyphen"/>copalem ad regendam Eccleſiam,</hi> &amp;c.] and after that, the anointing his head with holy Chriſme, with theſe words [<hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>gatur &amp; Conſecretur Caput tuum Bene<g ref="char:EOLhyphen"/>dictione coeleſti, in Ordine Pontificali, In nomine Patris,</hi> &amp;c.] After which he is called <hi>Epiſcopus,</hi> and <hi>Conſecratus;</hi> till then, not, but <hi>Electus,</hi> or <hi>Conſecrandus</hi> onely. So all theſe pertain to the <hi>inte<g ref="char:EOLhyphen"/>grity</hi> of our Form, and are <hi>morally</hi> (which is ſufficient to the unity of a <hi>mo<g ref="char:EOLhyphen"/>ral</hi> compoſitum, as a <hi>Sacrament</hi> is) joyn'd with the Impoſition of hands: and in theſe you ſee is expreſſed, <hi>Sacer<g ref="char:EOLhyphen"/>dotal, Epiſcopal,</hi> and <hi>Pontifical</hi> grace (or Order.) And ſo there is more in our Form to expreſs Epiſcopal power, then in theirs.</p>
+         </div>
+         <div n="5" type="chapter">
+            <pb n="13" facs="tcp:96084:15"/>
+            <head>
+               <hi>The fifth Chapter.</hi> Anſwering his third Argument, from Car<g ref="char:EOLhyphen"/>dinal <hi>Pool</hi>'s Diſpenſation.</head>
+            <p n="3">3. Arg. <hi>KIng</hi> Edward <hi>the ſixth his Form of Ordination, was judged valid in Queen</hi> Maries <hi>dayes, by all the Catholique Biſhops in Parliament,</hi> 1. <hi>and</hi> 2. Phil. <hi>and</hi> Mar. 8. <hi>by Cardinal</hi> Pool (<hi>then Apoſtolique Legat in</hi> England) <hi>and by the Pope himſelf,</hi> Paul <hi>the fourth.</hi> This he proves by three <hi>Mediums.</hi>
+            </p>
+            <p>
+               <q>The firſt <hi>Medium.</hi> The Parliament propoſed to the Cardinal, this Arti<g ref="char:EOLhyphen"/>cle, <hi>that all Inſtitutions to Benefices might be confirmed.</hi> And the Cardinal did confirm them, and the Pope ratifi<g ref="char:EOLhyphen"/>ed it. Now Inſtitutions could not be confirmed except Ordinations were, nor they, unleſs they were eſſentially valid.</q> 
+               <hi>Ergo</hi> they ſuppoſed them valid.</p>
+            <p>
+               <hi>Anſ.</hi> Either he argues upon the Inſti<g ref="char:EOLhyphen"/>tutions of ſuch as had been Ordained by the new Form, and were returned to Ca<g ref="char:EOLhyphen"/>tholique unity, and ſo had been re-or<g ref="char:EOLhyphen"/>dained; or of ſuch as had not been re-ordained. If the former, I deny, his
+<pb n="14" facs="tcp:96084:16"/>
+               <hi>Conſequence;</hi> for their Inſtitutions might be confirmed, without confirm<g ref="char:EOLhyphen"/>ing their Ordinations. If of the latter, I deny his <hi>Antecedent;</hi> for the Parlia<g ref="char:EOLhyphen"/>ment propoſed not, nor did the Cardi<g ref="char:EOLhyphen"/>nal promiſe to confirm <hi>their</hi> Inſtituti<g ref="char:EOLhyphen"/>ons; there being no Beneficed men then in the land, that had been Ordained by the new form, but what were re-ordained in Queen <hi>Maries</hi> time. And though it be ſufficient for me, being the Reſpondent, to <hi>ſay</hi> it onely, till he prove what he boldly faith, that <hi>none of thoſe Ordained by King</hi> Edwards <hi>form, were in Queen</hi> Maries <hi>time compelled to be re-ordained:</hi> yet for more ſatisfaction to the Reader, I ſhall give ſome Reaſons of my ſaying, <hi>viz.</hi> becauſe</p>
+            <p n="1">1. <hi>In the firſt Parliament of Queen</hi> Mary, (which began on the 5. of <hi>Octob.</hi> 1553. and ended on the 6. of <hi>Decemb.</hi> following, which was a twelve moneth afore this Act) <hi>all Conſecrations which had been made according to the Ordinal of</hi> Edward <hi>the ſixth were declared</hi> (ſaith Doctor <hi>Heylin) to be null and void.</hi>
+               <note place="margin">Eccleſ. Reſtaur. par. <hi>2.</hi> fol. <hi>38.</hi>
+               </note> And if <hi>Conſecrations,</hi> ſurely much more, <hi>Or<g ref="char:EOLhyphen"/>dinations;</hi> their Form for Ordaining <hi>Prieſts,</hi> being much more queſtion<g ref="char:EOLhyphen"/>able
+<pb n="15" facs="tcp:96084:16"/>
+then that for <hi>Biſhops.</hi>
+            </p>
+            <p n="2">2. In the beginning of <hi>March</hi> fol<g ref="char:EOLhyphen"/>lowing, the Biſhops procured from the Queen an Injunction to all the Ordina<g ref="char:EOLhyphen"/>ries in the Realm, to execute certain Ar<g ref="char:EOLhyphen"/>ticles recommended, whereof the fif<g ref="char:EOLhyphen"/>teenth was this <hi>[Touching ſuch perſons as were heretofore promoted to any Orders af<g ref="char:EOLhyphen"/>ter the new ſort and faſhion of Orders,</hi>
+               <note place="margin">Mr. Fox, Act. and Mon. par. <hi>2.</hi> fol. <hi>1464.</hi>
+               </note> 
+               <hi>con<g ref="char:EOLhyphen"/>ſidering they were not Ordained in very deed, the Biſhop of the Dioceſs finding otherwiſe ſufficiency and ability in thoſe men, may ſupply that thing which they wanted, and then according to his diſcre<g ref="char:EOLhyphen"/>tion, admit them to Miniſter.]</hi> Upon which Maſter <hi>Fox</hi> makes this note,<note place="margin">In Indice.</note> 
+               <hi>[Mi<g ref="char:EOLhyphen"/>niſters revolting to Popery, muſt with their new Religion have new Orders.]</hi> And theſe Articles we may be ſure were quickly and ſtrictly put in execution by the Biſhops; and ſo Maſter <hi>Fox</hi> ſaith,<note place="margin">
+                  <hi>Par.</hi> 2. <hi>fol.</hi> 1289.</note> 
+               <hi>[all ſuch Beneficed men, which either were married, or would conſtantly adhere to their profeſſion, were removed,</hi>
+               <note place="margin">Hiſt. of Q. Mary.</note> 
+               <hi>and others placed in their rooms:]</hi> and Doctor Goodwin, <hi>[Omnes cujuſcunque conditionis Eccleſia<g ref="char:EOLhyphen"/>ſtici, qui vel uxores repudiare nollent, vel Pontificiam doctrinam poſtea tueri &amp; de<g ref="char:EOLhyphen"/>fendere non promitterent, ſacerdotiis hujuſ<g ref="char:EOLhyphen"/>modi
+<pb n="16" facs="tcp:96084:17"/>
+unde ob. Pontificiam doctrinam perti<g ref="char:EOLhyphen"/>naciter defenſam exturbatus quiſquam fu<g ref="char:EOLhyphen"/>iſſet, indiſcriminatim univerſi exacti ſunt.]</hi> And Doctor <hi>Heylin, [For want of Canonical Ordination on the one ſide, and under colour of uncanonical marriage on the other, we ſhall finde ſuch a general remove amongſt the Biſhops and Clergy, as is not any where to be parallel'd in ſo ſhort a time.]</hi>
+            </p>
+            <p>The ſecond <hi>Medium. The Parliament, in that Article, propounded to the Cardi<g ref="char:EOLhyphen"/>nal, that all Eccleſiaſtical promotions might be confirmed. Now under promo<g ref="char:EOLhyphen"/>tions Eccleſiaſtical, were comprehended holy Orders.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Under <hi>Eccleſiaſtical promotions,</hi> were not comprehended holy Orders, but onely promotions of like nature as <hi>Inſtitutions</hi> to Benefices; for ſo runs the Article <hi>[Inſtitutions to Benefices, and other promotions Eccleſiaſtical:]</hi> that is, promotions giving Juriſdiction, Office, or Dignity in the Church, as Deans, Pre<g ref="char:EOLhyphen"/>bends, Chancellours, Archdeacons, <hi>&amp;c.</hi>
+            </p>
+            <p>The third <hi>Medium. The Cardinal pro<g ref="char:EOLhyphen"/>miſed to receive in their Orders all who had obtained Orders; without any other ex<g ref="char:EOLhyphen"/>ception or condition but this, that they were
+<pb n="17" facs="tcp:96084:17"/>
+return'd to Catholique <g ref="char:V">Ʋ</g>nity. Neither was there ever any one of them who were then returned, compelled to be re-ordained. This doth clearly deſtroy all the pretenſi<g ref="char:EOLhyphen"/>ons of the Romaniſts againſt the validity of our Orders.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> This is triumphing afore the vi<g ref="char:EOLhyphen"/>ctory. For firſt, that any of them that were returned to Catholique unity, would preſume to exerciſe any function of a Prieſt or Deacon, by vertue of Or<g ref="char:EOLhyphen"/>der received by the new Form, is not imaginable, conſidering how all the Catholique Biſhops at that time counted thoſe Ordinations null; ſo as there was no need to compel any of them to re-ordination. Secondly, the Cardinal did not promiſe to receive in their Or<g ref="char:EOLhyphen"/>ders, <hi>all who had obtained Orders (ſimpli<g ref="char:EOLhyphen"/>citer,</hi> as he alledges it.) but onely all who had obtained Orders, <hi>eſſentially</hi> valid (for elſe they were no Orders,) but <hi>Ca<g ref="char:EOLhyphen"/>nonically</hi> invalid, becauſe received from them who had no authority to Ordain, but what they pretended from the King as Supream head of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> for ſo are the Cardinals words, <hi>[Omnes perſonas, quae aliquas impetratio<g ref="char:EOLhyphen"/>ones, diſpenſationes; gratias &amp; indulta,
+<pb n="18" facs="tcp:96084:18"/>
+tam Ordines, quam Beneficia Eccleſia<g ref="char:EOLhyphen"/>ſtica, ſeu alias ſpirituales materias, prae<g ref="char:EOLhyphen"/>tenſa authoritate Supremitatis Eccleſiae Anglicanae, licet nulliter, &amp; de facto, ob<g ref="char:EOLhyphen"/>tinuerint.]</hi> And that this was his mean<g ref="char:EOLhyphen"/>ing, and the utmoſt of it, is manifeſt from divers other clauſes in the Diſpen<g ref="char:EOLhyphen"/>ſation. As</p>
+            <p n="1">1. That in the preamble, he deſcribes the things, he was deſired, and did intend to diſpenſe with, to be things done, <hi>per<g ref="char:EOLhyphen"/>nicioſiſſimo ſchiſmate vigente, per autho<g ref="char:EOLhyphen"/>ritatem Parliamenti; &amp; quae licet ex ſa<g ref="char:EOLhyphen"/>crorum Canonum inſtitutis irrita declara<g ref="char:EOLhyphen"/>ri poſſent;</hi> yet he might <hi>de Apoſtolicâ be<g ref="char:EOLhyphen"/>nignitate, eorum firmitati providere.</hi>
+            </p>
+            <p n="2">2. That for his motive to diſpence with thoſe things, he names the neceſſity of it to the publick peace and quiet of the whole Realm, <hi>[Quae ſi ad alium ſta<g ref="char:EOLhyphen"/>tum quam in quo nunc ſunt revocarentur, publica pax &amp; quies univerſi Regni tur<g ref="char:EOLhyphen"/>baretur, &amp; maxima confuſio oriretur.]</hi> which was true of Ordinations <hi>Canoni<g ref="char:EOLhyphen"/>cally</hi> null, becauſe all, or well nigh all in the land were ſo; but not of Ordinati<g ref="char:EOLhyphen"/>ons made by the new Form, for that had been legally eſtabliſhed by Parlia<g ref="char:EOLhyphen"/>ment (and the Parliament took care for
+<pb n="19" facs="tcp:96084:18"/>
+no other; <hi>Inſtitutions of Benefices, and other promotions Eccleſiaſtical, and diſpen<g ref="char:EOLhyphen"/>ſations, made according to the Form of the Act of Parliament,</hi>) but in the laſt year of <hi>Edward</hi> the ſixth, in which there had not been many Ordinations; and thoſe few as had been Ordained by it, and were become Catholiques (as the Parliament and Cardinal provided for no other,) had been, afore this, re-ordained; ſo as no diſturbance of the Realm could be feared from the not confirming thoſe Ordinations.</p>
+            <p n="3">3. That he promiſed to receive them in their Orders, though obtained, <hi>nulli<g ref="char:EOLhyphen"/>ter, &amp; de facto:</hi> which could not be poſ<g ref="char:EOLhyphen"/>ſibly meant of Orders <hi>eſſentially</hi> null, be<g ref="char:EOLhyphen"/>cauſe he well knew no power upon earth could confirm them; but onely of <hi>Ca<g ref="char:EOLhyphen"/>nonical</hi> nullity.</p>
+            <p n="4">4. That he put this condition or qua<g ref="char:EOLhyphen"/>lification upon them as ſhould have be<g ref="char:EOLhyphen"/>nefit by the Diſpenſation, <hi>[modò ad cor reverſae, Eccleſiae Catholicae unitati reſti<g ref="char:EOLhyphen"/>tutae fuerint:]</hi> which may have place in Ordinations <hi>Canonically</hi> null, but not in other, becauſe they are eternally valid or invalid in all alike, as well Hereticks or Schiſmaticks, as Catholicks.</p>
+            <p n="5">
+               <pb n="20" facs="tcp:96084:19"/>5. That he promiſes to receive them, <hi>prout multi jam recepti fuerunt;</hi> mean<g ref="char:EOLhyphen"/>ing thoſe who had ſued out their Diſ<g ref="char:EOLhyphen"/>penſations, as many had. But not one can be named who had been Ordained Biſhop, Prieſt, or Deacon, by the new Form, and upon his return to Catho<g ref="char:EOLhyphen"/>lique Religion, was received in that Or<g ref="char:EOLhyphen"/>der. And I am the more confident of it, becauſe (beſides the reaſons given <hi>ſupra</hi>) after this Parliament, heretical Biſhops, Prieſts, and Deacons, if they had been Ordained <hi>ritu Romano,</hi> were degraded as ſuch: but if by the new Form, not, but onely in that Order which they had re<g ref="char:EOLhyphen"/>ceived <hi>ritu Romano.</hi> As namely, <hi>John Bradford,</hi>
+               <note place="margin">Mr. Fox. par. <hi>2.</hi> fol. <hi>1464.</hi>
+               </note> Ordained a Miniſter by the new Form, was not degraded at all, but proceeded with as a meer lay-man. And Doctor <hi>Hooper,</hi>
+               <note place="margin">Id. ib. fol. <hi>1289.</hi>
+               </note> made Prieſt, by the Ro<g ref="char:EOLhyphen"/>man Form, Biſhop, by the new, was de<g ref="char:EOLhyphen"/>graded as a Prieſt onely. And by this time I hope the Reader ſees how little cauſe Doctor <hi>Bramhal</hi> had to vaunt as he did of this Argument as unanſwer<g ref="char:EOLhyphen"/>able. And this ſhall ſerve for my firſt Reaſon.</p>
+         </div>
+         <div n="6" type="chapter">
+            <pb n="21" facs="tcp:96084:19"/>
+            <head>
+               <hi>The ſixth Chapter.</hi> 
+               <g ref="char:V">Ʋ</g>rging the ſecond Reaſon, invalidity of the Miniſter.</head>
+            <p>BUt grant their Form were valid, yet they would be no Biſhops <hi>Ordine,</hi> for another reaſon; <hi>invalidity of the Miniſter.</hi> For the eſſential Miniſter of this Sacrament (the Conſecrating of a Biſhop) is at leaſt (according to their own doctrine) one Biſhop <hi>Ordine.</hi> Now none of them are Biſhops <hi>Ordine,</hi> becauſe no <hi>Prieſts,</hi> (as <hi>Prieſt,</hi> is the proper name of a holy Order, betwixt Biſhop, and Deacon.)</p>
+            <p>That none can be a Biſhop but he that is a Prieſt, is a received axiome amongſt all Divines, and granted by themſelves.<note place="margin">Mr. Ma<g ref="char:EOLhyphen"/>ſon, Ep. ded. ad Epiſc. Pariſ.</note> 
+               <hi>[Cum Epiſcopus eſſe nequeat qui non fuerit Presbyter, ſi nos Presbyte<g ref="char:EOLhyphen"/>ros non eſſe probatum dederit, actum erit de Miniſterio Anglicano.]</hi>
+            </p>
+            <p>And that their Miniſters are no Prieſts, is manifeſt: becauſe this word Prieſt (as it is the name of a holy Order) ſignifies one ſet apart, or impower'd, to offer to God the Sacrifice of the Body and Blood
+<pb n="22" facs="tcp:96084:20"/>
+of Chriſt. This is evident from all the Forms (now extant) of Ordaining Prieſts,<note place="margin">Vid. ap. Morin. de Ordin. ſacr. par. <hi>2.</hi>
+               </note> either ancient or modern, either of the Greek or Latin Church; and from the uſe of this word in all approved Chriſtian Authours from the Apoſtles times to this day. Now themſelves diſ<g ref="char:EOLhyphen"/>claim to <hi>Prieſthood</hi> in this ſenſe, and claim to it onely as it ſignifies (in a new ſenſe of their own deviſing) <hi>a Miniſter of the Goſpel, having power to diſpence the Word and Sacraments. [Sacrificium pro<g ref="char:EOLhyphen"/>priè dictum ad Miniſtros Evangelicos ſpectare non agnoſcimus.</hi>
+               <note n="(a)" place="margin">Mr. Maſon. pag. <hi>545.</hi>
+               </note> 
+               <hi>Si Sacerdo<g ref="char:EOLhyphen"/>tis vocabulo nihil aliud ſignificaſſes quam Miniſtrum Evangelii cui verbi &amp; Sacra<g ref="char:EOLhyphen"/>mentorum commiſſa eſt diſpenſatio, nos Sa<g ref="char:EOLhyphen"/>cerdotes eſſe</hi>
+               <note n="(b)" place="margin">id. l. <hi>5.</hi> c. <hi>1.</hi> n. <hi>3.</hi>
+               </note> 
+               <hi>profiteremur.</hi>]</p>
+            <p>If they will ſay (as otherwhiles they do, and even the ſame Authour)<note n="(c)" place="margin">l. <hi>5.</hi> c. <hi>1.</hi> n. <hi>3.</hi> &amp;c. <hi>5.</hi> n. <hi>11.</hi>
+               </note> that the Euchariſt is a myſtical Sacrifice, of<g ref="char:EOLhyphen"/>fered to God, in commemoration or re<g ref="char:EOLhyphen"/>preſentation of Chriſts death (which is as much as we believe of it,) and that they have power to offer it as ſuch: this is manifeſtly falſe, becauſe in all their eſſen<g ref="char:EOLhyphen"/>tial Form, there is not this word <hi>Prieſt,</hi> nor any word equivalent, nor any word ſignifying, or neceſſarily including,
+<pb n="23" facs="tcp:96084:20"/>
+power to offer any Sacrifice.</p>
+            <p>Nay, ſhould we admit this word <hi>Prieſt,</hi> in their own ſenſe, for one ſet apart to Conſecrate the Body and Blood. of Chriſt in way of <hi>Sacrament</hi> onely, yet they would be no Prieſts; becauſe the words of their Form ſignifie no ſuch power. For theſe are the words of it <hi>[Take the Holy Ghoſt: whoſe ſins thou forgiveſt they are forgiven, whoſe ſins thou retaineſt they are retained: and be thou a faithful diſpenſer of the word of God, and of his holy Sacraments.]</hi> In which you ſee is no power given, as to this or any other Sacrament, but onely to <hi>diſ<g ref="char:EOLhyphen"/>penſe</hi> them. Now to <hi>diſpenſe</hi> this Sacra<g ref="char:EOLhyphen"/>ment, is not to <hi>Conſecrate</hi> it; for it muſt firſt be <hi>Conſecrated,</hi> afore it can be <hi>diſpen<g ref="char:EOLhyphen"/>ſed;</hi> and (in ſome caſes, as if one at point of death, ſhould deſire his <hi>viati<g ref="char:EOLhyphen"/>cum,</hi> and no Prieſt or Deacon could be had to give it him,) it may be <hi>diſpenſed</hi> by a <hi>Deacon,</hi> yea by a Lay-man, but can<g ref="char:EOLhyphen"/>not be <hi>Conſecrated</hi> but by a Prieſt: and in a Prieſt, the Conſecrating it belongs to his power of <hi>Order,</hi> the <hi>Diſpenſing</hi> it, to power of <hi>Juriſdiction</hi> onely.</p>
+         </div>
+         <div n="7" type="chapter">
+            <pb n="24" facs="tcp:96084:21"/>
+            <head>The ſeventh Chapter. <hi>Replying to Doctor</hi> Bramhall's <hi>Anſwers.</hi>
+            </head>
+            <p n="1">
+               <note place="margin">
+                  <hi>pag.</hi> 226.</note>1. Anſ. I <hi>Deny that in all Forms of Prieſtly Ordination, the word Prieſt is ſet down either expreſly or equi<g ref="char:EOLhyphen"/>valently. It is ſet down expreſly in the Eaſtern Church, in the Weſtern not.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> In the Weſtern Church, 1. it is ſet down <hi>equivalently.</hi> For theſe words, at the delivery of the paten with an hoaſt, and of the chalice with wine in it [<hi>Accipe poteſtatem offerre Sacrificium Deo,</hi> &amp;c.] are equivalent to theſe [<hi>Take the power of Prieſthood,</hi> or <hi>be thou a Prieſt.</hi>] But 2. it is alſo ſet down <hi>ex<g ref="char:EOLhyphen"/>preſly, viz.</hi> in the prayer (joyned with the Impoſition of hands) anciently cal<g ref="char:EOLhyphen"/>led <hi>Benedictio Presbyteri,</hi> and which alone (as I noted afore) was the ancient Form for Ordaining a Prieſt <hi>[Exaudi nos Domine Deus noſter, &amp; ſuper kos fa<g ref="char:EOLhyphen"/>mulos tuos Bene</hi>
+               <g ref="char:cross">✚</g>
+               <hi>dictionem Sancti Spi<g ref="char:EOLhyphen"/>ritus, &amp; gratiae SACERDOTALIS infunde virtutem.]</hi> And in the Prayer anciently called <hi>Conſecratio Presbyteri,</hi> which followeth ſoon after the other
+<pb n="25" facs="tcp:96084:21"/>
+[<hi>Dain hos famulos tuos PRESBYTE<g ref="char:EOLhyphen"/>RII dignitatem,</hi> &amp;c. <hi>ut panem &amp; vinum in corpus &amp; ſanguinem filii tui immacula<g ref="char:EOLhyphen"/>tâ benedictione transforment,</hi> &amp;c.] both which Prayers ſtill are uſed in our Form.</p>
+            <p n="2">2. Anſ. <hi>If the words of our Form be as determinate and expreſs, as the exam<g ref="char:EOLhyphen"/>ple and preſcription of Chriſt, it is ſuffi<g ref="char:EOLhyphen"/>cient. The form of Baptiſm is, I BA<g ref="char:EOLhyphen"/>PTIZE THEE IN THE NAME OF THE FATHER,</hi> &amp;c. Not, <hi>I BAPTIZE THEE TO REGENERATION OR REMISSION OF SINS. There are many other kindes of Baptiſms or waſhings beſides this Sacramental Ba<g ref="char:EOLhyphen"/>ptiſme, yet this form is as large as the Inſtitution of Chriſt; and theſe general words are efficacious both to regeneration and remiſſion of ſins, as well as if they had been expreſly mentioned. In this form of Baptiſm there is enough antecedent to di<g ref="char:EOLhyphen"/>rect and regulate both the actions and in<g ref="char:EOLhyphen"/>tention of the Miniſter, So there is like<g ref="char:EOLhyphen"/>wiſe in our Form of Ordination.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Had Chriſt inſtituted thoſe words of their Form [<hi>Take the Holy Ghoſt,</hi> &amp;c.] for giving the grace of Prieſt<g ref="char:EOLhyphen"/>ly Order, as he did thoſe [<hi>I Baptize
+<pb n="26" facs="tcp:96084:22"/>
+thee,</hi> &amp;c.] for giving the grace of rege<g ref="char:EOLhyphen"/>neration, we neither could nor ſhould have excepted againſt it; becauſe then it would have ſignified it, as the Form of Baptiſm doth regeneration, <hi>ex inſtituto Chriſti.</hi> But till they can ſhew their form ſo Inſtituted, which they can never do, the caſe is nothing like; and ſo this is no anſwer.</p>
+            <p n="3">3. Anſ. <hi>In our Form, Prieſtly power is ſufficiently expreſſed. Firſt, RE<g ref="char:EOLhyphen"/>CEIVE THE HOLY GHOST, that is, the grace of the Holy Ghoſt, to exerciſe and diſcharge the Office of Prieſt<g ref="char:EOLhyphen"/>hood, to which thou haſt been now preſented and accepted,</hi> &amp;c.</p>
+            <p>
+               <hi>Rep.</hi> Had all theſe been the words of their Form, we ſhould never have que<g ref="char:EOLhyphen"/>ſtioned the validity of it. But none of them belongs to it but thoſe firſt, <hi>Re<g ref="char:EOLhyphen"/>ceive the Holy Ghoſt:</hi> the reſt are but his <hi>Gloſs;</hi> which I doubt not but the Or<g ref="char:EOLhyphen"/>dainer meant; but the intention of the Miniſter, is not ſufficient to give this grace, without <hi>words</hi> ſignifying it; which theſe do not.</p>
+            <p>Anſ. <hi>Secondly, in theſe words [WHOSE SINS THO<g ref="char:V">Ʋ</g> RE<g ref="char:EOLhyphen"/>MITTEST,</hi> &amp;c.] <hi>that is, not onely
+<pb n="27" facs="tcp:96084:22"/>
+by Prieſtly abſolution, but by preaching, baptizing, adminiſtring the holy Eucha<g ref="char:EOLhyphen"/>riſt, which is a means to apply the all-ſuf<g ref="char:EOLhyphen"/>ficient ſacrifice of Chriſt for the remiſſion of ſins. He who authorizes a man to ac<g ref="char:EOLhyphen"/>compliſh a work, doth authorize him to uſe all means which tend to the accompliſh<g ref="char:EOLhyphen"/>ment thereof.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> This anſwer hath the ſame fault with the former (that it quotes his own <hi>Gloſs,</hi> for the Text,) and a much worſe: for, in that, it is like the Gloſs was <hi>meant</hi> by the Ordainer, but in this, not; it being a ſenſe exploded by Proteſtants themſelves as <hi>Puritanical.</hi> Nor is it congruous to the words: for the remit<g ref="char:EOLhyphen"/>ting ſins here ſpoken of, muſt be the act of the <hi>Prieſt</hi> himſelf <hi>[whoſe ſins THO<g ref="char:V">Ʋ</g> remitteſt,]</hi> whereas the remitting ſins by <hi>preaching,</hi> or any other of thoſe wayes by him named (except Abſolution) is not the act of the <hi>Prieſt,</hi> but of <hi>God</hi> alone, and the Prieſt doth onely apply the means whereby <hi>God</hi> doth it. And for that Rule [<hi>he who authorizes,</hi> &amp;c.] it holds onely in means <hi>neceſſary</hi> to the end: which the adminiſtring of the Euchariſt is not to the remitting of ſins: for (re<g ref="char:EOLhyphen"/>gularly) they are and ought to be remit<g ref="char:EOLhyphen"/>ted
+<pb n="28" facs="tcp:96084:23"/>
+afore, by the Sacrament of Penance: and if Chriſt had pleaſed, he might have given that power of remitting ſins, to a Deacon, or Lay-man.</p>
+            <p>Anſ. <hi>Thirdly this Prieſtly power to Con<g ref="char:EOLhyphen"/>ſecrate, is contained in thoſe words [BE THO<g ref="char:V">Ʋ</g> A FAITHF<g ref="char:V">Ʋ</g>L DIS<g ref="char:EOLhyphen"/>PENSER OF THE WORD AND SACRAMENTS.]</hi> And afterwards when the Biſhop deli<g ref="char:EOLhyphen"/>vers the Bible into his hands, <hi>[Have thou authority to preach the Word and admini<g ref="char:EOLhyphen"/>ſter the Sacraments.]</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> It is contained in neither of them. For</p>
+            <p n="1">1. The former [<hi>Be thou a faithful diſ<g ref="char:EOLhyphen"/>penſer,</hi> &amp;c.] <hi>give</hi> no power, but onely <hi>admoniſh,</hi> and <hi>exhort,</hi> to a <hi>faithful</hi> diſ<g ref="char:EOLhyphen"/>charge of the Office. And the latter [<hi>Have thou authority,</hi> &amp;c.] give no pow<g ref="char:EOLhyphen"/>er of <hi>Order,</hi> but <hi>Juriſdiction</hi> onely: as their own men interpret them <hi>[In ſupe<g ref="char:EOLhyphen"/>rioribus data eſt poteſtas Ordinis,</hi>
+               <note place="margin">Mr. Maſon l. <hi>5.</hi> c. <hi>14.</hi> n. <hi>14.</hi>
+               </note> 
+               <hi>in his, Juriſdictio, vel facultas, per quam po<g ref="char:EOLhyphen"/>teſtas Ordinis ad uſum reducitur, ſeu loci duntaxat, in quo poteſtas illa exercenda eſt, deſignatio:]</hi> and as would have been evident by the words themſelves, had he ſet them down intirely, and not
+<pb n="29" facs="tcp:96084:23"/>
+by halves [<hi>Have thou authority to preach,</hi> &amp;c. <hi>in this Congregation where thou ſhalt be ſo appointed.</hi>]</p>
+            <p n="2">2. Had they been abſolute, and impe<g ref="char:EOLhyphen"/>rative, <hi>[Have thou authority to preach, and diſpenſe Sacraments]</hi> they would not have ſignified power of <hi>Order,</hi> but <hi>Ju<g ref="char:EOLhyphen"/>riſdiction</hi> onely;; nor any greater Ju<g ref="char:EOLhyphen"/>riſdiction then a <hi>Deacon</hi> is capable of. And his anſwer to this, <hi>[that the Prieſt doth diſpenſe this Sacrament by way of Of<g ref="char:EOLhyphen"/>fice, a Deacon onely as his Miniſter,]</hi> is 1. falſe, for if a Deacon be Beneficed, and have a faculty from the Biſhop, in the interim till be a Prieſt, to preach and diſpenſe Sacraments, he hath authority to diſpenſe this Sacrament <hi>ex Officio,</hi> and not as Miniſter to any Prieſt. 2. Imper<g ref="char:EOLhyphen"/>tinent, for the diſpenſing it <hi>ex Officio,</hi> doth not formally ſignifie, or neceſſarily include power to <hi>Conſecrate</hi> it, at leaſt, not as given by thoſe words which give the power to <hi>diſpenſe</hi> it; for (regularly) he muſt firſt be made a <hi>Prieſt,</hi> and after<g ref="char:EOLhyphen"/>ward a <hi>diſpenſer</hi> of it (or <hi>Paſtour.</hi>)</p>
+            <p>If he ſay, that under this word, <hi>diſ<g ref="char:EOLhyphen"/>penſe,</hi> the Ordainer meant power, not onely to <hi>adminiſter</hi> the Euchariſt, but to <hi>Conſecrate</hi> it; I believe he did; but (as
+<pb n="30" facs="tcp:96084:24"/>
+I have often ſaid) the intention of the Miniſter is not ſufficient to give power of <hi>Order,</hi> and the <hi>higheſt</hi> power of Order (as this is, to <hi>Conſecrate</hi> the Euchariſt,) without <hi>words</hi> ſignifying it.</p>
+            <p>And this ſhall ſerve for the firſt part of my Concluſion, <hi>that they are no Bi<g ref="char:EOLhyphen"/>ſhops Ordine</hi> (or <hi>valid</hi> Biſhops.)</p>
+         </div>
+         <div n="8" type="chapter">
+            <head>
+               <hi>The eighth Chapter.</hi> Proving the ſecond part of the Concluſion, <hi>that they are no Biſhops OFFICIO,</hi> viz. For want of Juriſdiction in the Conſecrators; and urging the firſt rea<g ref="char:EOLhyphen"/>ſon, want of the Patriarch's conſent.</head>
+            <p>THe ſecond part of my Concluſion is, <hi>that they are no Biſhops Officio (Juriſdictione,</hi> or <hi>ſimpliciter.</hi>) My rea<g ref="char:EOLhyphen"/>ſon is, becauſe they that Confirmed, or Conſecrated them, had no Juriſdiction to either of thoſe acts.</p>
+            <p>The Conſequence (<hi>they had no Juriſ<g ref="char:EOLhyphen"/>diction, therefore could not validly Con<g ref="char:EOLhyphen"/>firm,</hi> &amp;c.) is good: becauſe the <hi>Con<g ref="char:EOLhyphen"/>firming</hi> of one elected to a Biſhoprick (that is, the ratifying of his election to it; which if the party were Conſecrated
+<pb n="31" facs="tcp:96084:24"/>
+afore, is that which makes him inſtantly <hi>Biſhop</hi> of it; and if he were not, is that which makes him inſtantly <hi>Biſhop</hi> (or Lord) <hi>elect</hi> of it, and puts him in <hi>proxi<g ref="char:EOLhyphen"/>ma potentiâ</hi> to be Conſecrated Biſhop of it,) is plainly an act of Juriſdiction: and therefore cannot be exerciſed validly, but by one having Juriſdiction to it. 2. The <hi>Conſecrating</hi> of a Biſhop, as it hath two effects in the party Conſecrated, one the creating him a Biſhop <hi>Ordine,</hi> an<g ref="char:EOLhyphen"/>other the creating him Biſhop of <hi>ſuch a See</hi> (as ex. gr. <hi>Canterbury, London,</hi> &amp;c.) ſo it requires in the Conſecraters two powers; one, to create him a Bi<g ref="char:EOLhyphen"/>ſhop <hi>Ordine,</hi> and ſo it is an act purely of the Key of <hi>Order;</hi> another, to create him Biſhop of <hi>that See,</hi> (that is, governing Paſtour to that Flock of Clergy and Peo<g ref="char:EOLhyphen"/>ple, with authority to Inſtitute Paſtours, hold Courts, make Decrees, determine Cauſes, inflict or releaſe Cenſures Eccle<g ref="char:EOLhyphen"/>ſiaſtical, over, or among them,) and ſo it is plainly an act of the Key of <hi>Juriſ<g ref="char:EOLhyphen"/>diction,</hi> becauſe giving <hi>Juriſdiction</hi> one<g ref="char:EOLhyphen"/>ly: and ſo cannot be validly exerciſed but by one having authority to exerciſe it.</p>
+            <p>The Antecedent, <hi>(they had no Ju<g ref="char:EOLhyphen"/>riſdiction,)</hi>
+               <pb n="32" facs="tcp:96084:25"/>
+is proved by two <hi>Mediums.</hi>
+            </p>
+            <p>The firſt is, becauſe they had no au<g ref="char:EOLhyphen"/>thority from the Pope, who alone could give it them. For none can give Paſto<g ref="char:EOLhyphen"/>ral Juriſdiction, but a Paſtour; nor Juriſdiction over ſuch a flock; but the Paſtour to that flock; becauſe none can give a Juriſdiction which he hath not. And hence, even among themſelves, no Biſhop in the land can validly Inſti<g ref="char:EOLhyphen"/>tute a Paſtour to any Parochial Church, but the Biſhop of the Dioceſs, or by Commiſſion from him, or his Superi<g ref="char:EOLhyphen"/>our. Nor can any number of Biſhops validly Confirm or Conſecrate the Bi<g ref="char:EOLhyphen"/>ſhop of any Dioceſs, but the Metro<g ref="char:EOLhyphen"/>politane of the Province (or ſome per<g ref="char:EOLhyphen"/>ſon authorized by him or his Superiour) muſt be one: nor the Metropolitane of a Province, but the Primate of the Nation, (or ſome perſon authorized by him or his Superiour) muſt be one. And conſequently, by (parity of reaſon) nor the Primate of any Nation, but the Patriarch of that part of the world (or ſome perſon having faculty from him) muſt be one. This was long ago de<g ref="char:EOLhyphen"/>fined (or declared) by the firſt Council of
+<pb n="33" facs="tcp:96084:25"/>
+               <hi>Nice,</hi> [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Mos anti<g ref="char:EOLhyphen"/>quus obti<g ref="char:EOLhyphen"/>tineat, in Egypto, Lybia, &amp; Pentapo<g ref="char:EOLhyphen"/>li, ut E<g ref="char:EOLhyphen"/>piſcopus Alexan<g ref="char:EOLhyphen"/>drinus ho<g ref="char:EOLhyphen"/>rum omni<g ref="char:EOLhyphen"/>um habeat poteſta<g ref="char:EOLhyphen"/>tem, <hi>&amp;c.</hi> 
+                  <g ref="char:V">Ʋ</g>niver<g ref="char:EOLhyphen"/>ſim autem illud ma<g ref="char:EOLhyphen"/>nifeſtum eſt, quod ſi quis abſ<g ref="char:EOLhyphen"/>que con<g ref="char:EOLhyphen"/>ſenſu Me<g ref="char:EOLhyphen"/>tropoli<g ref="char:EOLhyphen"/>tani fiat Epiſcopus, hunc mag<g ref="char:EOLhyphen"/>na Syno<g ref="char:EOLhyphen"/>dus defi<g ref="char:EOLhyphen"/>nivit non debere eſſe Epiſco<g ref="char:EOLhyphen"/>pum. Can. <hi>6.</hi>
+               </note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (that is, particularly, and principally, the Conſecrating of their Primates,) &amp;c. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (the Eccleſiaſtical Superior to that See) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.] And afore that, by the Canons called <hi>the Apoſtles;</hi>
+               <note n="(a)" place="margin">
+                  <hi>Can.</hi> 35.</note> and ſince that, hath been confirmed, by the great Council of Chalcedon,<note n="(b)" place="margin">
+                  <hi>Can.</hi> 27.</note> and divers other Councils, and recei<g ref="char:EOLhyphen"/>ved by the practiſe and conſent of the Univerſal Church from that time to this day. Conſequently, the Patriark of the Weſt, (the Biſhop of <hi>Rome</hi>) being the unqueſtionable rightful Metropolitane to the Primate of this Nation, (the Archbiſhop of <hi>Canterbury,</hi>) and the Founder of that See; no number of Bi<g ref="char:EOLhyphen"/>ſhops in this land, can validly Confirm, or Conſecrate him, but the Biſhop of <hi>Rome,</hi> or by Faculty or Commiſſion from him; or at leaſt, not without his conſent <hi>implicite,</hi> or reaſonably <hi>preſu<g ref="char:EOLhyphen"/>med.</hi> And ſo there having been no right<g ref="char:EOLhyphen"/>ful Primate of this Nation ſince the be<g ref="char:EOLhyphen"/>ginning
+<pb n="34" facs="tcp:96084:26"/>
+of Queen <hi>Elizabeths</hi> Reign, for want of the Popes conſent to his Conſecration; there hath been no Bi<g ref="char:EOLhyphen"/>ſhop validly Confirmed or Conſecrated in it, ſince that time, not can be, till the Popes conſent can be had.</p>
+         </div>
+         <div n="9" type="chapter">
+            <head>
+               <hi>The ninth Chapter.</hi> 
+               <g ref="char:V">Ʋ</g>rging the ſecond reaſon, their having no Juriſdiction but from the King: and bringing the firſt proof of it, from their own acts and confeſſions.</head>
+            <p>MY ſecond <hi>Medium</hi> ſhall be, be<g ref="char:EOLhyphen"/>cauſe they have no Juriſdiction to theſe acts, but what they have origi<g ref="char:EOLhyphen"/>nally from the King, who can give them none. And</p>
+            <p>Firſt, that he can give them none to theſe acts, I ſuppoſe will be granted; becauſe to Inſtitute or create a Paſtour to a flock of Clergy and people, is plainly a power of the <hi>Keyes,</hi> which themſelves acknowledge no temporal Prince (as ſuch) hath. And they give a good rea<g ref="char:EOLhyphen"/>ſon for it,<note place="margin">Dr. Bram. pag. <hi>63.</hi>
+               </note> becauſe <hi>the power of the Keyes was evidently given by Chriſt in Scri<g ref="char:EOLhyphen"/>pture to his Apoſtles and their Succeſ<g ref="char:EOLhyphen"/>ſours,
+<pb n="35" facs="tcp:96084:26"/>
+not to Sovereign Princes.</hi> Hence, Queen <hi>Elizabeth</hi> in her Commiſſion to them as were to Confirm and Conſe<g ref="char:EOLhyphen"/>crate <hi>Matthew Parker</hi> to the See of <hi>Canterbury,</hi> would not uſe the words, <hi>aſſign, conſtitute,</hi> or <hi>authorize,</hi> (as is uſed in all other Commiſſions) but onely <hi>re<g ref="char:EOLhyphen"/>quired them to Confirm and Conſecrate him, and do all other things which in this behalf belonged to their Paſtoral Office:</hi> thereby acknowledging, that theſe were acts of the <hi>Paſtoral</hi> Office, which ſhe could not <hi>authorize,</hi> but onely <hi>command,</hi> them to perform.</p>
+            <p>Secondly, that they have no Juriſdi<g ref="char:EOLhyphen"/>on to theſe acts, but what they have (originally) from the King, may be ſhewed many wayes. I ſhall make uſe of three.</p>
+            <p>The firſt ſhall be from their own acts and confeſſions, As</p>
+            <p n="1">1.<note place="margin">Eccl. Reſt. in pref.</note> That Doctor <hi>Heylin</hi> notes of Q. <hi>Elizabeth</hi> (as commendable in Her,) <hi>that ſhe looked upon Her ſelf as the ſole fountain of both Juriſdictions</hi> (temporal, and ſpiritual.) For if ſhe <hi>the ſole foun<g ref="char:EOLhyphen"/>tain of both;</hi> then they that Confirmed and Conſecrated <hi>Matthew Parker,</hi> and Her other firſt Biſhops, had no Juriſ<g ref="char:EOLhyphen"/>diction
+<pb n="36" facs="tcp:96084:27"/>
+for it, but what they derived from Her.</p>
+            <p n="2">2. That afore their Conſecration, they take, 1. the Oath of Supremacy, whereby they acknowledge the King to be <hi>the onely Supream Governour, as well in all Spiritual or Eccleſiaſtical things or cauſes, as Temporal.</hi> For if ſo, they cannot exerciſe any Spiritual Juriſdiction in <hi>foro exteriori</hi> (as this is, to Confirm and Conſecrate a Paſtour) but what muſt be derived from him. Nor can they ſay, that by the <hi>Supream Governour,</hi> in that Oath, is meant onely the Supream <hi>poli<g ref="char:EOLhyphen"/>tical</hi> Governour:<note place="margin">1. <hi>Eliz.</hi> 1.</note> for the Act that eſta<g ref="char:EOLhyphen"/>bliſhed that Oath, declares it to belong to the Kings Supremacy, <hi>to uſe and exer<g ref="char:EOLhyphen"/>ciſe all ſuch Juriſdictions Spiritual and Eccleſiaſtical, as by any Spiritual and Eccleſiaſtical power or authority, hath heretofore been, or may lawfully be uſed, over the Eccleſiaſtical State of this Realm,</hi> and conſequently, to authorize any Biſhops in the land (as the Pope afore did) to Confirm and Conſecrate Arch<g ref="char:EOLhyphen"/>biſhops and Biſhops, and ſo that none might Confirm or Conſecrate any, but by authority from the King, as afore they might not but by authority from
+<pb n="37" facs="tcp:96084:27"/>
+the Pope: nay, it gives to the King more authority, and in this very kinde, then the Pope can exerciſe, or ever pretended to, <hi>viz.</hi> to <hi>aſſign and authorize any per<g ref="char:EOLhyphen"/>ſons as he ſhall think meet</hi> (Biſhops, or not Biſhops, Clerks, or Laymen, <hi>ſo they be his natural born Subjects) to exerciſe under him all manner of Juriſdictions and Authorities, in any wiſe touching or con<g ref="char:EOLhyphen"/>cerning any Spiritual Juriſdiction within this Realm:</hi> and conſequently, to Con<g ref="char:EOLhyphen"/>firm, or Conſecrate Archbiſhops or Bi<g ref="char:EOLhyphen"/>ſhops, of any Sees; for this is a ſpiritual Juriſdiction. 2. Beſides this, they take a particular Oath, of <hi>Homage,</hi> where<g ref="char:EOLhyphen"/>by they acknowledge <hi>to hold thir Arch<g ref="char:EOLhyphen"/>biſhoprick (or Biſhoprick) with all autho<g ref="char:EOLhyphen"/>rity, juriſdiction, priviledges, revenues, and all elſe thereunto belonging, ſolely and onely from his Majeſty.</hi> If <hi>all their Juriſ<g ref="char:EOLhyphen"/>diction from him ſolely,</hi> they can have no authority to conſtitute a Paſtour of a Cathedral or Metropolitical Church, but what they muſt have from him.</p>
+         </div>
+         <div n="10" type="chapter">
+            <pb n="38" facs="tcp:96084:28"/>
+            <head>
+               <hi>The tenth Chapter.</hi> Bringing the ſecond Proof, from other pub<g ref="char:EOLhyphen"/>lick Acts.</head>
+            <p>THe ſecond way of proof ſhall be, from other publick Acts and pro<g ref="char:EOLhyphen"/>ceedings, approved by them; by which it appears that the King can and ſome<g ref="char:EOLhyphen"/>times does at his pleaſure, limit, controul, ſuſpend, or utterly deprive the Biſhops of their Juriſdiction; which he could not do, if they had it from any other then himſelf. Of this, I ſhall name two Inſtances.</p>
+            <p>One, ſhall be the ſequeſtring of Do<g ref="char:EOLhyphen"/>ctor <hi>Abbot</hi> by the late King, from his Office of Archbiſhop of <hi>Canterbury,</hi> upon a diſpleaſure taken againſt him, for refuſing to licenſe a Sermon as the King deſired, and committing that Office (he living) unto other Biſhops of his own appointing;<note place="margin">See the Commiſſi<g ref="char:EOLhyphen"/>on at large, in Mr. Ruſh. Hiſt. Col<g ref="char:EOLhyphen"/>lect. p. <hi>435.</hi>
+               </note> 
+               <hi>authorizing them, to do all, or any acts pertaining to the power or autho<g ref="char:EOLhyphen"/>rity of the Arch-biſhop of</hi> Canterbury <hi>in cauſes or matters Eccleſiaſtical, as amply, fully, and effectually to all intents and pur<g ref="char:EOLhyphen"/>poſes, as the ſaid Archbiſhop might have
+<pb n="39" facs="tcp:96084:28"/>
+done.</hi> And ſo by vertue of this Commiſ<g ref="char:EOLhyphen"/>ſion, thoſe perſons had authority to Conſecrate or Confirm the Archbiſhop of <hi>York</hi> (if it ſhould happen,) or any Biſhop within the Province of <hi>Canterbu<g ref="char:EOLhyphen"/>ry;</hi> which without it they had not.</p>
+            <p>Another, ſhall be the <hi>Declaration</hi> of his Majeſty, (whom God grant long to Reign over us) <hi>touching affairs of Reli<g ref="char:EOLhyphen"/>gion:</hi> in which he deprives all the Bi<g ref="char:EOLhyphen"/>ſhops and Archbiſhops in the land of their power of <hi>ſole Ordaining and Cenſu<g ref="char:EOLhyphen"/>ring their Presbyters,</hi> and joyns their Presbyters in Commiſſion with them, as to thoſe acts of Ordaining and Cen<g ref="char:EOLhyphen"/>ſuring.</p>
+         </div>
+         <div n="11" type="chapter">
+            <head>
+               <hi>The eleventh Chapter.</hi> Bringing the third Proof from the Conſe<g ref="char:EOLhyphen"/>cration of <hi>Matthew Parker.</hi>
+            </head>
+            <p>MY third proof, ſhall be from the Conſecration of <hi>Matthew Par<g ref="char:EOLhyphen"/>ker,</hi> the firſt Proteſtant Archbiſhop of <hi>Canterbury,</hi> from whom all the Arch<g ref="char:EOLhyphen"/>biſhops and Biſhops that have been ſince, deſcend; and ſo if he had no au<g ref="char:EOLhyphen"/>thority to Confirm or Conſecrate a Bi<g ref="char:EOLhyphen"/>ſhop,
+<pb n="40" facs="tcp:96084:29"/>
+but what he had from the Queen, none ſince him can have; becauſe they can have none but muſt be derived to them from and by him.</p>
+            <p>Now that he had none but from the Queen, is proved.</p>
+            <p>They who Confirmed and Conſecra<g ref="char:EOLhyphen"/>ted him, had no authority for it, but from the Queen.</p>
+            <p>Therefore he had none but from the Queen.</p>
+            <p>The <hi>Conſequence,</hi> I ſuppoſe will not be denied; becauſe he had all his Spiri<g ref="char:EOLhyphen"/>tual Juriſdiction, by his Confirmation and Conſecration to that See: if then they who Confirmed and Conſecrated him, did it by no authority but of the Queen; he could have none but what he had from Her.</p>
+            <p>The <hi>Antecedent</hi> is eaſily proved. For if they had any, it muſt be, either as Bi<g ref="char:EOLhyphen"/>ſhops <hi>Ordine,</hi> or as Biſhops <hi>Officio:</hi> but neither of theſe wayes had they any.</p>
+            <p n="1">1. Not as Biſhops <hi>Ordine:</hi> becauſe to Confirm or Conſecrate a <hi>Paſtour,</hi> is an act of <hi>Juriſdiction:</hi> which a Biſhop <hi>Or<g ref="char:EOLhyphen"/>dine</hi> onely, hath none.</p>
+            <p n="2">2. Not as Biſhops <hi>Officio:</hi> becauſe</p>
+            <p>Firſt, not one of them was ſo, as ap<g ref="char:EOLhyphen"/>pears
+<pb n="41" facs="tcp:96084:29"/>
+by the ſtile given them in the Queens Letters Pattents to them for this buſineſs [<hi>Regina</hi> &amp;c. <hi>Antonio Landa<g ref="char:EOLhyphen"/>venſi Epiſcopo, Wilelmo Barlow quondam Bathonienſi Epiſcopo, nunc Ciceſtrenſi Electo, Joanni Scory quondam Ciceſtrenſi Epiſcopo, nunc Electo Herefordienſi, Mi<g ref="char:EOLhyphen"/>loni Coverdale quondam Exonienſi Epiſ<g ref="char:EOLhyphen"/>copo, Richardo Bedfordenſi, Joanni Thed<g ref="char:EOLhyphen"/>fordenſi, Epiſcopis Suffraganeis, &amp; Jo<g ref="char:EOLhyphen"/>anni Bale Oſſorienſio Epiſcopo.</hi>] Where you ſee, thoſe four that Confirmed and Conſecrated him, (admitting their <hi>Lam<g ref="char:EOLhyphen"/>beth</hi> Records for true,) to wit, <hi>Barlow, Scory, Coverdale,</hi> and <hi>Hodgskins</hi> (Suffra<g ref="char:EOLhyphen"/>gan of <hi>Bedford,</hi>) are not ſtiled <hi>Biſhops</hi> of any See, as two of the other are, (he of <hi>Landaff,</hi> and he of <hi>Oſſory,</hi>) but either <hi>quondam</hi> Biſhops onely, as <hi>Cover<g ref="char:EOLhyphen"/>dale;</hi> or <hi>quondam</hi> Biſhops and Lords <hi>Elect</hi> onely, as <hi>Barlow</hi> and <hi>Scory;</hi> or <hi>Suffragan</hi> Biſhops onely (as <hi>John Hodgs<g ref="char:EOLhyphen"/>kins,</hi>) that is, who had indeed the Epiſ<g ref="char:EOLhyphen"/>copal <hi>Character,</hi> but were Paſtours of <hi>Parochial</hi> Churches onely, erected into <hi>Suffragan</hi> Sees, by the Act of 26. <hi>H.</hi> 8. 14. who by the Act could not exerciſe any leaſt act of Juriſdiction, no not within their own pariſh, without licenſe
+<pb n="42" facs="tcp:96084:30"/>
+of the Biſhop of the Dioceſſe.</p>
+            <p>Secondly, becauſe had they been all of them actual Biſhops of Cathedral Churches, yet, they could not validly Confirm or Conſecrate any loweſt Bi<g ref="char:EOLhyphen"/>ſhop in the land, and much leſs their <hi>Metropolitan,</hi> without a Faculty or Commiſſion from ſome Superiour to that See. And the reaſon is evident: Be<g ref="char:EOLhyphen"/>cauſe</p>
+            <p n="1">1. They could not (by their own au<g ref="char:EOLhyphen"/>thority) validly exerciſe any Juriſdiction out of their own Dioceſſes, as <hi>London</hi> where they were to <hi>Confirm,</hi> and <hi>Lam<g ref="char:EOLhyphen"/>beth,</hi> where they were to Conſecrate him, was out of all their Dioceſſes.</p>
+            <p n="2">2. Nor within his own Dioceſs could any one of them give Juriſdiction to be exerciſed in another Dioceſs, as <hi>Canter<g ref="char:EOLhyphen"/>bury</hi> was.</p>
+            <p n="3">3. Much leſs could they (being but ſimple Biſhops) give a Juriſdiction <hi>Me<g ref="char:EOLhyphen"/>tropolitical,</hi> and create a Superiour to themſelves, and to all the Biſhops of the Province, yea and to the Archbiſhop of another Province, namely him of <hi>York:</hi> for they could not give a Juriſdiction which they had not.</p>
+            <p>Theſe two grand defects therefore, in
+<pb n="43" facs="tcp:96084:30"/>
+the condition, ſtate, and faculty of the Confirmers and Conſecraters of <hi>Mat<g ref="char:EOLhyphen"/>thew Parker,</hi> the one againſt the Canons of the Church, that they had no con<g ref="char:EOLhyphen"/>ſent of the Metropolitane to the See of <hi>Canterbury,</hi> the other againſt both the Canons of the Church, and the laws of the land, that not one of thoſe who were like to execute the Commiſſion, was a Biſhop (<hi>ſimpliciter,</hi> or in the ſenſe wherein all laws, both of the Church and of the Land, mean, when they ſpeak of a <hi>Biſhop,</hi>) rendring them uncapable to Confirm or Conſecrate him, till thoſe defects were ſupplied; the party that ſupplied thoſe defects, was the party that gave them their authority to thoſe acts. Now it is manifeſt by the Queens Com<g ref="char:EOLhyphen"/>miſſion to them, that ſhe, by vertue of her Supremacy in cauſes Eccleſiaſtical, did ſupply to them thoſe defects: for theſe are the words of the Commiſſion. <q>[Regina, <hi>&amp;c.</hi> Reverendiſſimis in Chriſto Patribus, Antonio, <hi>&amp;c.</hi> (ut ſu<g ref="char:EOLhyphen"/>pra) Cum Decanus &amp; Capitulum Ec<g ref="char:EOLhyphen"/>cleſiae noſtrae Cathredalis &amp; Metropo<g ref="char:EOLhyphen"/>liticae Chriſti Cantuarienſis dilectum nobis in Chriſto Magiſtrum Mattheum Parker, ſibi &amp; Eccleſiae praedictae elege<g ref="char:EOLhyphen"/>runt
+<pb n="44" facs="tcp:96084:31"/>
+in Archiepiſcopum &amp; Paſtorem: nos eidem electioni Regium noſtrum aſſenſum adhibuimus pariter &amp; favo<g ref="char:EOLhyphen"/>rem, &amp; hoc vobis tenore praeſentium ſignificamus, rogantes, ac in fide &amp; di<g ref="char:EOLhyphen"/>lectione quibus nobis tenemini, firmiter praecipiendo, Mandantes, quatenus vos aut quatuor veſtrum eundem in Archiepiſcopum &amp; Paſtorem Eccleſiae praedictae ſicut praefertur electum, ele<g ref="char:EOLhyphen"/>ctionemque praedictam, Confirmare, &amp; eundem in Archiepiſcopum &amp; Paſto<g ref="char:EOLhyphen"/>rem Eccleſiae praedictae Conſecrare, caeteraque omnia &amp; ſingula peragere, quae veſtro in hac parte incumbunt Officio Paſtorali, juxta formam Sta<g ref="char:EOLhyphen"/>tutorum in ea parte editorum &amp; provi<g ref="char:EOLhyphen"/>ſorum, velitis cum effectu. Supplentes nihilominus Supremâ authoritate no<g ref="char:EOLhyphen"/>ſtrá Regiâ, ſi quid, aut in his quae juxta mandatum noſtrum praedictum per vos fient, aut in vobis aut veſtrûm aliquo, conditione, ſtatu, aut facultate veſtris, ad praemiſſa perficienda deſit aut de<g ref="char:EOLhyphen"/>erit eorum quae per Statuta hujus Reg<g ref="char:EOLhyphen"/>ni noſtri, aut per Leges Eccleſiaſticas, in hac parte requiruntur aut neceſſaria ſunt, temporis ratione &amp; rerum neceſ<g ref="char:EOLhyphen"/>ſitate id poſtulante, <hi>viz.</hi>]</q> becauſe nei<g ref="char:EOLhyphen"/>ther
+<pb n="45" facs="tcp:96084:31"/>
+the conſent of the Metropolitane (the Biſhop of <hi>Rome,</hi>) nor four Biſhops, as the Law of the Realm, nor three, as the Canons of the Church required, no nor any <hi>one</hi> Biſhop could be then had to his Confirmation and Conſecration. Now though really ſhe could give them no ſuch authority, becauſe ſhe had no power of the <hi>Keyes,</hi> to which it per<g ref="char:EOLhyphen"/>tained to diſpenſe with the Canons of the Church: yet this ſuffices to prove my in<g ref="char:EOLhyphen"/>tent, that they had no authority to either of thoſe acts, but what they had from Her.</p>
+         </div>
+         <div n="12" type="chapter">
+            <head>
+               <hi>The twelfth Chapter.</hi> Replying to Doctor <hi>Heylins</hi> Anſwer.</head>
+            <p>DOctor <hi>Heylin</hi> undertakes to anſwer all our Objections againſt the Ca<g ref="char:EOLhyphen"/>nonicalneſs of <hi>Matthew Parkers</hi> Con<g ref="char:EOLhyphen"/>ſecration:<note place="margin">Eccl. Reſt. p <hi>2.</hi> f. <hi>122.</hi>
+               </note> but he neither ſets them down all, nor ſolves thoſe he doth; as will ap<g ref="char:EOLhyphen"/>pear by the Reply.</p>
+            <p n="1">1. <hi>Anſ.</hi> 
+               <q>Though <hi>Barlow</hi> and <hi>Sco<g ref="char:EOLhyphen"/>ry</hi> were deprived of their Epiſcopal Sees; yet, firſt, the juſtice and lega<g ref="char:EOLhyphen"/>lity of their Deprivation was not clear in Law.</q>
+            </p>
+            <p>
+               <pb n="46" facs="tcp:96084:32"/>
+               <hi>Rep.</hi> 1. And why then did the Queen in her Letters Pattents not ſtile them <hi>Bi<g ref="char:EOLhyphen"/>ſhops,</hi> but onely <hi>quondam</hi> Biſhops of thoſe Sees? And why did ſhe not in all that time (being above thirteen moneths after her coming to the Crown) reſtore them to thoſe Sees? And why did ſhe, or how could ſhe, they living, place others in thoſe Sees, without their re<g ref="char:EOLhyphen"/>ſignation. 2. Grant the deprivation had been unjuſt, yet till it was avoided, and they reſtored by ſentence, they were no <hi>Biſhops</hi> of thoſe Sees, in the eye of the Law. 3. Had they been actual Biſhops of thoſe Sees, yet they would have had no authority to Confirm or Conſecrate him, for the defects ſhewed <hi>ſupra.</hi>
+            </p>
+            <p n="2">2. <hi>Anſ.</hi> 
+               <q>Secondly, they neither were nor could be deprived of their Epiſcopal Character: and whilſt that remained, they were in a capacity for performing all Epiſcopal Offices to which they ſhould be called by their Metropolitane, or any higher power directing and commanding in all ſuch matters as concerned the Church.</q>
+            </p>
+            <p>
+               <hi>Rep.</hi> If by, <hi>higher power,</hi> &amp;c. he mean <hi>Eccleſiaſtical;</hi> it is true, he ſaith, but impertinent; becauſe they were not
+<pb n="47" facs="tcp:96084:32"/>
+called to Confirm or Conſecrate <hi>Mat<g ref="char:EOLhyphen"/>thew Parker,</hi> by any ſuch higher power, but onely by the Queen. But if he mean, that their Epiſcopal Character rendred them capable to perform all Epiſcopal Offices, to which they ſhould be called by a Lay-Prince onely, having no other authority in matters as concern the Church, but onely to <hi>direct</hi> or <hi>com<g ref="char:EOLhyphen"/>mand</hi> Biſhops to perform their Offices, it is notorious falſe doctrine.</p>
+            <p n="3">3. <hi>Anſ.</hi> 
+               <q>As for <hi>Suffragans</hi> (by which title <hi>Hodgskins</hi> is Commiſſiona<g ref="char:EOLhyphen"/>ted for the Conſecration) they were no other then the <hi>Chorepiſcopi</hi> of the Pri<g ref="char:EOLhyphen"/>mitive times, ordained for eaſing the Dioceſan, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Rep.</hi> They were in ſome things more then the <hi>Chorepiſcopi,</hi> for they <hi>(the Chor<g ref="char:EOLhyphen"/>epiſcopi)</hi> were no Biſhops <hi>Ordine,</hi> which theſe were: but in other things they were leſs, for the <hi>Chorepiſcopi</hi> had Juriſ<g ref="char:EOLhyphen"/>diction Epiſcopal from ſome lawful Bi<g ref="char:EOLhyphen"/>ſhop of the See; which theſe had not, but were onely eſtabliſhed by an Act of Parliament of <hi>Hen.</hi> 8. nor had any of the Biſhops then in the Realm Epiſcopal Juriſdiction, being manifeſt Hereticks and Schiſmaticks, and ſo could not con<g ref="char:EOLhyphen"/>ſtitute
+<pb n="48" facs="tcp:96084:33"/>
+a Suffragan. But grant they were no leſs then the <hi>Chorepiſcopi,</hi> he cannot ſhew that ever any <hi>Chorepiſcopus</hi> was uſed for the Confirming or Conſecrating of a Biſhop. And this ſhall ſerve for the ſecond part of my Concluſion, <hi>that they are no Biſhops Officio,</hi> (or <hi>Canonical</hi> Bi<g ref="char:EOLhyphen"/>ſhops.)</p>
+         </div>
+         <div n="13" type="chapter">
+            <pb n="49" facs="tcp:96084:33"/>
+            <head>
+               <hi>The thirteenth Chapter.</hi> Proving the third part of the Concluſion, <hi>that they are no legal Biſhops:</hi> and urging the firſt Reaſon, becauſe the Act of <hi>H. 8.</hi> for the <hi>Roman</hi> Form, is ſtill in force.</head>
+            <p>THough it matter not much to my purpoſe, whether they be <hi>Legal</hi> Biſhops, or not:<note place="margin">Dr. Stapl. Counterbl. ag. Horne.</note> yet becauſe our writers have objected this alſo againſt them, <hi>[Is it not notorious, that you were not Ordain<g ref="char:EOLhyphen"/>ed according to the preſcript, I will not ſay, of the Church, but even of the very Statutes,]</hi> and their late Champions have undertaken to defend it, and the diſcuſſing of it will give much light into the whole Controverſie, and more abun<g ref="char:EOLhyphen"/>dantly diſcover the nullity of their Con<g ref="char:EOLhyphen"/>ſecrations, this ſhall be the third part of my Concluſion, that <hi>they are no legal Bi<g ref="char:EOLhyphen"/>ſhops.</hi> My reaſons are two.</p>
+            <p>The firſt is, becauſe the Act of 25. <hi>Hen</hi> 8.20. which authorizes the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Form for Conſecrating Biſhops (by giving <hi>Pall,</hi> and uſing <hi>Benedictions, <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>ctions,</hi> and all other Ceremonies <hi>requi<g ref="char:EOLhyphen"/>ſite
+<pb n="50" facs="tcp:96084:34"/>
+at that time, viz.</hi> by the <hi>Romane</hi> Pontifical, which was then in uſe, in this Nation,) being repealed by Q. <hi>Mary,</hi> was revived 1. <hi>Eliz.</hi> and never ſince re<g ref="char:EOLhyphen"/>pealed, and ſo is ſtill in force.</p>
+            <p>Nor will it ſerve to ſay, that that Act of <hi>Hen.</hi> 8. was repealed (as to that part of it) <hi>virtually,</hi> (or <hi>interpretatively,</hi>) by the Act of 8. <hi>Eliz.</hi> which eſtabliſh<g ref="char:EOLhyphen"/>ed another Form; for in the judgement of Law, an Act of Parliament is not re<g ref="char:EOLhyphen"/>pealed but by <hi>expreſs</hi> words.</p>
+         </div>
+         <div n="14" type="chapter">
+            <head>
+               <hi>The fourteenth Chapter.</hi> 
+               <g ref="char:V">Ʋ</g>rging the ſecond Reaſon, becauſe the Act of <hi>Edw. 6.</hi> for the Book of Ordina<g ref="char:EOLhyphen"/>tion, being repealed by Queen <hi>Mary,</hi> is not yet revived; and proving the firſt part of the reaſon, that it was not revi<g ref="char:EOLhyphen"/>ved afore <hi>8. Eliz.</hi>
+            </head>
+            <p>THe ſecond reaſon is, becauſe grant<g ref="char:EOLhyphen"/>ing that the Act of <hi>Hen.</hi> 8. was <hi>virtually</hi> repealed, by 8. <hi>Elizabethae,</hi> and that ſuch <hi>virtual</hi> repeal is ſufficient in Law, yet the Form of <hi>Edw.</hi> 6. (by which they are Ordained) cannot be <hi>le<g ref="char:EOLhyphen"/>gal,</hi> becauſe that part of the Act of
+<pb n="51" facs="tcp:96084:34"/>
+               <hi>Edward</hi> 6. which eſtabliſhed the Book of Ordination, and was repealed by Queen <hi>Mary,</hi> was not revived afore 8. <hi>Eliz.</hi> nor then neither.</p>
+            <p>The firſt part of this reaſon, (<hi>that it was not revived afore</hi> 8. <hi>Eliz.</hi>) is eaſily proved. For whereas that Act of 5. and 6. <hi>Edw.</hi> 6.1. conſiſted of two parts; one, which authorized the Book of Common-Prayer (eſtabliſhed 2. and 3. <hi>Edw,</hi> 6.) as it was then newly explained and perfected; another which eſtabliſh<g ref="char:EOLhyphen"/>ed the Form of Conſecrating Biſhops, <hi>&amp;c.</hi> and added it to the Book of Com<g ref="char:EOLhyphen"/>mon-Prayer: this Act, as to both theſe parts, was repealed 1. <hi>Mar.</hi> and this repeal was reverſed 1. <hi>Eliz.</hi> 1. as to that part which concerned the Book of Common-Prayer <hi>onely:</hi> for ſo runs the Act [<hi>The ſaid Statute of Repeal, and every thing therein contained, ONELY concerning the ſaid Book</hi> (viz. of Com<g ref="char:EOLhyphen"/>mon-Prayer, authorized by <hi>Edw.</hi> 6.) <hi>ſhall be void and of none effect.</hi>] And af<g ref="char:EOLhyphen"/>terward, 8. <hi>Eliz.</hi> 1. was revived that other part of it which concerned the Form of Ordination, <hi>viz.</hi> in theſe words [<hi>Such Order and Form for the Conſecrating of Archbiſhops, Biſhops,</hi> &amp;c.
+<pb n="52" facs="tcp:96084:35"/>
+               <hi>as was ſet forth in the time of</hi> Edw. 6. <hi>and added to the ſaid Book of Common-Prayer, and authorized</hi> 5. <hi>and</hi> 6. <hi>Edw.</hi> 6. <hi>ſhall ſtand and be in full force, and ſhall from henceforth be uſed and ob<g ref="char:EOLhyphen"/>ſerved.</hi>]</p>
+         </div>
+         <div n="15" type="chapter">
+            <head>
+               <hi>The fifteenth Chapter.</hi> Replying to Doctor <hi>Bramhall</hi>'s Anſwer.</head>
+            <p>
+               <note place="margin">pag. 95.</note>FIrſt, he ſets down our Objection wrong. [<hi>The Book of Ordination was expreſly eſtabliſhed by name, by</hi> Edw. 6. <hi>and that Act was expreſly repealed by Queen</hi> Mary: <hi>but the Book of Ordination was not expreſly reſtored by Queen</hi> Eliz. <hi>but onely in general terms, under the name and notion of the Book of Common-Prayer.</hi>] For this is not our objection, but this: it was not reſtored at all, but rather formally excluded, by 1. <hi>Eliz.</hi> For that Act of <hi>Edw.</hi> 6. conſiſting of nothing elſe, but the authorizing of the Book of Common-Prayer, and eſta<g ref="char:EOLhyphen"/>bliſhing, and adding to it, the Book of Ordination; and the Act of Queen <hi>Mary</hi> having repealed that whole Act: that Act of 1. <hi>Eliz.</hi> reverſing that re<g ref="char:EOLhyphen"/>peal,
+<pb n="53" facs="tcp:96084:35"/>
+as to the Book of Common-Pray<g ref="char:EOLhyphen"/>er <hi>onely,</hi> did plainly and directly exclude the repealing of it as to the Book of Ordination, there being nothing elſe to be excluded by that <hi>onely,</hi> but that Book. And I am confident, it was the full intent of the Queen and Parlia<g ref="char:EOLhyphen"/>ment at that time, to retain ſtill, as the Order of Biſhops, ſo the Catholique Form of Conſecrating them, autho<g ref="char:EOLhyphen"/>rized by Act of Parliament, 25. <hi>Hen.</hi> 8. 20. after his revolt from <hi>Rome,</hi> and uſed all his time till his death, and for ſome years of <hi>Edw.</hi> 6. For that Queen loved ſtate and ſolemnity in the Rites of the Church where it juſtled not with her in<g ref="char:EOLhyphen"/>tereſt, and loathed the ſlovinly way of Ordaining, uſed by Lutherans and Cal<g ref="char:EOLhyphen"/>viniſts; until ſhe was overborn in it, at the Conſecration of <hi>Matthew Parker,</hi> when no <hi>Catholick</hi> Biſhops could be got to Conſecrate him, and the <hi>Proteſtant,</hi> would not Conſecrate him <hi>ritu Romano.</hi> And one good reaſon of my confidence is, becauſe that Act of 1. <hi>Eliz,</hi> did ex<g ref="char:EOLhyphen"/>preſly revive that Act of 25. <hi>Hen.</hi> 8. 20. which was inconſiſtent with the reviving of that part of the Act of <hi>Edw.</hi> 6. which concerned the Book of Ordina<g ref="char:EOLhyphen"/>tion;
+<pb n="54" facs="tcp:96084:36"/>
+that Form authorized by the Act of <hi>Hen.</hi> 8. being the <hi>Roman</hi> Form, with Pall, Unction, Benedictions, Mi<g ref="char:EOLhyphen"/>ter, Ring, <hi>&amp;c.</hi> and that of <hi>Edw.</hi> 6. a bald thing, without any of that dreſs.</p>
+            <p>Secondly, the anſwers he gives to the Objection are falſe, or frivolous: as will appear by the Replies.</p>
+            <p>
+               <hi>Anſ.</hi> 
+               <q>
+                  <hi>Queen</hi> Maries <hi>Statute was re<g ref="char:EOLhyphen"/>pealed ſufficiently even as to the Book of Ordination, as appears by the very words of that Statute which repealed it.</hi> [And that the ſaid Book, with the order of Service and adminiſtration of Sacraments, Rites, and Ceremonies, ſhall be in full force and effect, any thing in Queen <hi>Maries</hi> Statute of repeal to the contrary notwithſtanding.]</q>
+            </p>
+            <p>
+               <hi>Rep.</hi> By theſe words appears it was not repealed as to the Book of Ordina<g ref="char:EOLhyphen"/>tion, becauſe the words preceding, re<g ref="char:EOLhyphen"/>pealed it expreſly as to the Book of Common-Prayer <hi>onely;</hi> and theſe words revive the Statute of <hi>Edw.</hi> 6. as to that Book onely.</p>
+            <p>
+               <hi>Anſ.</hi> 
+               <q>That the Book of Ordination was a part of the Book of Common-Prayer, and printed in this Book in
+<pb n="55" facs="tcp:96084:36"/>
+King <hi>Edwards</hi> dayes, beſide the ex<g ref="char:EOLhyphen"/>preſs teſtimony of the Statute of 8. <hi>Eliz.</hi> we have the authority of the Canons of the Church of <hi>England,</hi> which call it ſingularly, <hi>the Book of Common-Prayer and of Ordering Bi<g ref="char:EOLhyphen"/>ſhops.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Rep.</hi> The Statute of 8. <hi>Eliz.</hi> teſtifies no ſuch thing, much leſs expreſly. And the Canon by him cited is againſt him<g ref="char:EOLhyphen"/>ſelf, implying it was no part of the Book of Common-Prayer, (for then it had been vain to ſay, <hi>the Book of Common-Prayer and of Ordering Biſhops</hi>) but a diſtinct Book by it ſelf, though bound up in one volume, or under one cover, with the Book of Common-Prayer; and thence, called ſingularly, <hi>the Book of Com<g ref="char:EOLhyphen"/>mon-Prayer, and of Ordering Biſhops; i. e.</hi> the Book containing both thoſe Books.</p>
+            <p>
+               <hi>Anſ.</hi> 
+               <q>It is our Form of Prayer up<g ref="char:EOLhyphen"/>on that occaſion, as much as our Form of Baptizing or adminiſtring the Holy Euchariſt, or our Form of Confirming, Marrying, or viſiting the Sick.</q>
+            </p>
+            <p>
+               <hi>Rep.</hi> True, but not contained in the Book of Common-Prayer, (but in a di<g ref="char:EOLhyphen"/>ſtinct Book,) and therefore not revived
+<pb n="56" facs="tcp:96084:37"/>
+with it neceſſarily, or in vertue of that name, <hi>the Book of Common-Prayer.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 
+               <q>It is alſo a part of our Form of adminiſtration of the Sacraments. We deny not Ordination to be a Sa<g ref="char:EOLhyphen"/>crament.</q>
+            </p>
+            <p>
+               <hi>Rep.</hi> But it is not a Sacrament con<g ref="char:EOLhyphen"/>tained in the Book of Common-Prayer; and therefore not revived with that Book.</p>
+            <p>
+               <hi>Anſ.</hi> 
+               <q>No man can deny that it is a part of our Eccleſiaſtical Rites and Ceremonies, and under that notion, ſufficiently authorized.</q>
+            </p>
+            <p>
+               <hi>Rep.</hi> Any man can, and I do deny it to be any Rite or Ceremony pertaining to the Book of Common-Prayer: and therefore under that notion it could not be authorized by an Act authorizing the Book of Common-Prayer.</p>
+            <p>
+               <hi>Anſ.</hi> Laſtly, <hi>Ejus eſt Legem interpre<g ref="char:EOLhyphen"/>tari cujus eſt condere.</hi> Q. <hi>Eliz.</hi> and her Parliament made the Law, and expound<g ref="char:EOLhyphen"/>ed it by the ſame authority that made it; declaring, that under the Book of Com<g ref="char:EOLhyphen"/>mon-Prayer, the Form of Ordination was comprehended, and ought to be un<g ref="char:EOLhyphen"/>derſtood.</p>
+            <p>
+               <hi>Rep.</hi> He ſhould have quoted the
+<pb n="57" facs="tcp:96084:37"/>
+words ſo declaring, and no doubt would have done it, had there been any: but there are no ſuch. Nay divers paſſages of that Act, do rather declare the con<g ref="char:EOLhyphen"/>trary. As</p>
+            <p n="1">1. When ſpeaking of the Act of 1. <hi>Marie,</hi> they ſay, <hi>it repealed the Act of</hi> Edw. 6. <hi>for allowing the Book of Common-Prayer, and other the premiſes</hi> (that is, the Book of Ordination, ſpoken of be<g ref="char:EOLhyphen"/>fore, as added, by that Act, to the Book of Common-Prayer:) but ſpeaking of the Act of 1. <hi>Eliz.</hi> they do not ſay, it eſtabliſhed the ſaid Book of Common-Prayer, <hi>and other the premiſes;</hi> but one<g ref="char:EOLhyphen"/>ly, <hi>the ſaid Book of Common-Prayer, and of the adminiſtration of Sacraments, and other the ſaid Orders, Rites, and Ceremo<g ref="char:EOLhyphen"/>nies before mentioned</hi> (that is, contained in the ſaid Book of Common-Prayer; for no other were before mentioned.)</p>
+            <p n="2">2. When for the Book of Common-Prayer, the mention the Act of 1. <hi>Eliz.</hi> that had authorized it, and onely confirm that Act <hi>[The ſaid Act</hi> (of 1. Eliz.) <hi>whereby the ſaid Book of Common-Prayer is authorized, ſhall ſtand and re<g ref="char:EOLhyphen"/>main good.</hi>] But for the Book of Ordi<g ref="char:EOLhyphen"/>nation; they mention not the Act of 1.
+<pb n="58" facs="tcp:96084:38"/>
+               <hi>Eliz.</hi> but revive the Act of <hi>Edw.</hi> 6. for it. [<hi>Such Order and Form for the Con<g ref="char:EOLhyphen"/>ſecrating of Archbiſhops,</hi> &amp;c. <hi>as was au<g ref="char:EOLhyphen"/>thorized by</hi> 5. <hi>and</hi> 6. Edw. 6. <hi>ſhall ſtand and be in full force;</hi>] which had been vain, if it had been revived before, by 1. <hi>Eliz.</hi> as it would have been, if it had been a part of the Book of Common-Prayer.</p>
+         </div>
+         <div n="16" type="chapter">
+            <head>
+               <hi>The ſixteenth Chapter.</hi> Noting Doctor <hi>Heylin</hi>'s varying from himſelf, and falſifying the Act of <hi>8. Eliz.</hi>
+            </head>
+            <p>DOctor <hi>Heylin</hi> relating this matter as an Hiſtorian, firſt, varies from himſelf, and then notoriouſly falſifies the Act of 8. <hi>Eliz.</hi>
+            </p>
+            <p n="1">1. He varies from himſelf; for one while, he delivers it (as the truth was) that the Liturgy was confirmed 1. <hi>Eliz.</hi> and the Book of Ordination not afore 8.<note place="margin">Ecc. Reſt. in Ep. to Reader.</note> 
+               <hi>Eliz: [In the firſt year of Her Reign, the Liturgy was confirmed by Parliament. In her fifth, the Articles of Religion were agreed upon in the Convocation. And in the eighth, the Government of the Church by Archbi<g ref="char:EOLhyphen"/>ſhops
+<pb n="59" facs="tcp:96084:38"/>
+and Biſhops, received as ſtrong a Con<g ref="char:EOLhyphen"/>firmation as the Laws could give it. And for this laſt, we are beholden unto</hi> Bonner, <hi>&amp;c.</hi>] And elſewhere [<hi>In the ſix and thirtieth Article is declared that whoſo<g ref="char:EOLhyphen"/>ever were Conſecrated according to the Rites of the Ordinal of</hi> Edw. 6.<note place="margin">p. 1. f. 83.</note> 
+               <hi>ſhould be reputed lawfully Conſecrated; which Declaration of the Church was afterwards made good by Act of Parliament in the eighth year of that Queen, in which the ſaid Ordinal is confirmed, and ratified.</hi>] And yet another while he ſaith,<note place="margin">Ibid.</note> 
+               <hi>it was approved of and confirmed as a part of the Liturgy.</hi> For if ſo, then it was confirm<g ref="char:EOLhyphen"/>ed with the Liturgy, 1. <hi>Eliz.</hi>
+            </p>
+            <p n="2">2. Then he notoriouſly falſifies the Act of 8.<note place="margin">p. 2. f. 174.</note> 
+               <hi>Eliz. [The buſineſs</hi> (ſaith he) <hi>came under conſideration in the following Par<g ref="char:EOLhyphen"/>liament</hi> (8. Eliz.) <hi>where all particulars being fully and conſiderately diſcourſed up<g ref="char:EOLhyphen"/>on, it was firſt declared,</hi> (ſetting down theſe that follow as the words of the Act.) <q>That their (the Parliament 1. <hi>Eliz.</hi>) not reſtoring of that Book to the former power, in terms <hi>ſignificant</hi> and <hi>expreſs,</hi> was but <hi>Caſus omiſſus;</hi> and ſecondly, that by the Statute of 5. and 6. <hi>Edw.</hi> 6. it had been added to
+<pb n="60" facs="tcp:96084:39"/>
+the Book of Common-Prayer, and ad<g ref="char:EOLhyphen"/>miniſtration of the Sacraments, as a <hi>member</hi> of it, or at leaſt an <hi>appendant</hi> to it; and therefore by 1. <hi>Eliz.</hi> was reſtored again together with the ſaid Book of Common-Prayer, <hi>intentional<g ref="char:EOLhyphen"/>ly</hi> at the leaſt, if <hi>not in terminis.</hi> But being the words in the ſaid Statute were not <hi>clear</hi> enough to remove all doubts, they did <hi>therefore</hi> revive it now, and did accordingly enact, <hi>&amp;c.</hi>]</q> when there is not any one of theſe ſen<g ref="char:EOLhyphen"/>tences in the Act, I do not ſay in <hi>words,</hi> but not ſo much as in <hi>ſenſe;</hi> nay, when the Act ſuppoſed the contrary, as is ſhown <hi>ſupra.</hi>
+            </p>
+         </div>
+         <div n="17" type="chapter">
+            <head>
+               <hi>The ſeventeenth Chapter.</hi> Confirming the Argument, by the proceed<g ref="char:EOLhyphen"/>ings in <hi>Bonners</hi> Caſe; and urging the firſt inference for the opinion of the Judges.</head>
+            <p>THis that I have urged, (that that part of the Act of <hi>Edw.</hi> 6. for the Book of Ordination, was not revi<g ref="char:EOLhyphen"/>ved afore 8. <hi>Eliz.</hi> and conſequently they no legal Biſhops, afore that Act) is ſo true, as that it was the opinion of
+<pb n="61" facs="tcp:96084:39"/>
+even the Proteſtant Judges at that time, and of the Parliament that made that Act; as may be manifeſtly inferred from the proceedings of the Judges and Par<g ref="char:EOLhyphen"/>liament in the Caſe of <hi>Bonner</hi> and <hi>Horn;</hi> which was this.</p>
+            <p>By the firſt Seſſion of that Parlia<g ref="char:EOLhyphen"/>ment, 5. <hi>Eliz.</hi> 1. power was given to any Biſhop in the Realm, to tender the Oath of Supremacy, (enacted 1. <hi>Eliz.</hi>) to any Eccleſiaſtical perſon within his Dioceſs, and the refuſer was to incur a <hi>Premunire.</hi> Mr. <hi>Horn</hi> (the new Biſhop of <hi>Wincheſter,</hi>) tenders (by vertue of this Statute,) the Oath unto Doctor <hi>Bonner</hi> (Biſhop of <hi>London,</hi> but deprived by Q. <hi>Eliz.</hi> and then a Priſoner in the Mar<g ref="char:EOLhyphen"/>ſhalſea, which was within the Dioceſs of <hi>Wincheſter.) Bonner</hi> refuſes to take it. <hi>Horn</hi> certifies his refuſal, into the Kings Bench, whereupon <hi>Bonner</hi> was indicted upon the Statute. He prayes judgement,<note place="margin">Dyar. fol. <hi>234.</hi>
+               </note> whether he might not give in evidence upon this Iſſue, <hi>Quod ipſe non eſt inde cul<g ref="char:EOLhyphen"/>pabilis, eo quod dictus Epiſcopus de Win<g ref="char:EOLhyphen"/>cheſter non fuit Epiſcopus tempore oblatio<g ref="char:EOLhyphen"/>nis Sacramenti.</hi> And it was reſolved by all the Judges at Serjeants Inne, <hi>that if the verity and matter be ſo indeed, he
+<pb n="62" facs="tcp:96084:40"/>
+ſhould well be received to give in evidence upon this Iſſue, and the Jury ſhould try it.</hi> After which we hear no more of the In<g ref="char:EOLhyphen"/>dictment. And at the next Seſſion of that Parliament (which was 8. <hi>Eliz</hi>) was revived the Act of <hi>Edw.</hi> 6. for the Book of Ordination, and enacted, <hi>That all that have been, or ſhall be made, Or<g ref="char:EOLhyphen"/>dered, or Conſecrated Archbiſhops, Bi<g ref="char:EOLhyphen"/>ſhops,</hi> &amp;c. <hi>after that Form of</hi> Edw. 6. <hi>be in very deed, and by authority hereof, declared, and enacted to be, and ſhall be Archbiſhops, Biſhops,</hi> &amp;c. <hi>and rightly made, Ordered, and Conſecrated, any Sta<g ref="char:EOLhyphen"/>tute, Law, Canon, or other thing to the contrary notwithſtanding.</hi> But with this Proviſo, <hi>that no perſon ſhall be impeached by occaſion or mean of any Certificate, by any Archbiſhop, or Biſhop, heretofore made, or before the laſt day of this Seſſion, to be made, by vertue of any Act made in the firſt Seſſion of this Parliament, touch<g ref="char:EOLhyphen"/>ing the refuſal of the Oath, enacted</hi> 1. Eliz. <hi>And that all tenders of the ſaid Oath, and all refuſals of it ſo tendered, or before the laſt day of this Seſſion, to be ten<g ref="char:EOLhyphen"/>dered, by any Archbiſhop, or Biſhop, ſhall be void.</hi>
+            </p>
+            <p>Now from this Story, I make two
+<pb n="63" facs="tcp:96084:40"/>
+inferences to my purpoſe.</p>
+            <p>The firſt, that in the opinion of the Judges at that time, the Act of <hi>Edw.</hi> 6. for the Book of Ordination, was not revived by 1. <hi>Eliz.</hi> and ſo <hi>Horn</hi> was no Legal Biſhop. For otherwiſe, there is no reaſon imaginable, why <hi>Horn</hi> would not joyn iſſue with <hi>Bonner</hi> upon that point, <hi>non fuit Epiſcopus tempore oblatio<g ref="char:EOLhyphen"/>nis Sacramenti;</hi> and ſo come to a trial of it.</p>
+         </div>
+         <div n="18" type="chapter">
+            <head>
+               <hi>The eighteenth Chapter.</hi> Refuſing the ſhifts uſed by Mr. <hi>Maſon,</hi> and Doctor <hi>Heylin</hi> to evade this infe<g ref="char:EOLhyphen"/>rence.</head>
+            <p>MAſter <hi>Maſon</hi> puts this for our Queſtion,<note place="margin">l. 3. c. 11. n. 6.</note> 
+               <hi>Quae ratio dilatae Sen<g ref="char:EOLhyphen"/>tentiae?</hi> (whereas that, is not our queſtion, but this, <hi>Why did not Horn joyn iſſue?</hi> &amp;c.) and, to avoid the <hi>true</hi> one, gives <hi>other</hi> reaſons for it; but very frivolous ones, as will appear by the Anſwers.</p>
+            <p n="1">1. <hi>Reaſ.</hi> 
+               <q>
+                  <hi>Bonner</hi>'s Counſel, though they pleaded <hi>Horn</hi> was no Biſhop; yet (for ought appears by <hi>Dyar</hi>) they gave no reaſon for it. It ſeems there<g ref="char:EOLhyphen"/>fore
+<pb n="64" facs="tcp:96084:41"/>
+that the Judges allowed them longer time, to produce their reaſons, that ſo the dignity of the Biſhops might ſhine more clear.</q>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Doctor <hi>Heylin</hi> ſaith, <hi>Bonners</hi> Councel did give their reaſon,<note place="margin">p. 2. f. 173.</note> 
+               <hi>viz. that the Form of</hi> Edw. 6. <hi>had been repealed by Q.</hi> Mary, <hi>and ſo remained at</hi> Horn<hi>'s pretended Conſecration.</hi> But I ſuppoſe it a miſtake of his, for it is not the uſe, in the entring of a Plea, to give a reaſon of it, for that is to be ſhewn and plea<g ref="char:EOLhyphen"/>ded at the <hi>hearing;</hi> which this cauſe ne<g ref="char:EOLhyphen"/>ver came to. And therefore that could be no reaſon of the delay of ſentence.</p>
+            <p n="2">2. <hi>Reaſ.</hi> 
+               <q>Other Jurors were to be warned out of <hi>Surrey,</hi> afore ſentence could be given.</q>
+            </p>
+            <p>
+               <hi>Anſ.</hi> It was not time to warn Jurors, afore Iſſue joyned, which this never was. And when they were to be warn'd, it was but out of <hi>Southwark;</hi> which might have been againſt the next term: and ſo could be no reaſon, why ſentence was delayed, two years, or near upon, as it was betwixt this pleading at Serjeants Inne, and the Seſſion of 8. <hi>Eliz.</hi>
+            </p>
+            <p n="3">3. <hi>Reaſ.</hi> 
+               <q>Whilſt the Suit was de<g ref="char:EOLhyphen"/>pending, which began 7. <hi>Eliz.</hi> a
+<pb n="65" facs="tcp:96084:41"/>
+Parliament was held, 8. <hi>Eliz.</hi> in which all ſuits depending for refuſal of the Oath of Supremacy, were diſſol<g ref="char:EOLhyphen"/>ved.</q>
+            </p>
+            <p>
+               <hi>Anſ.</hi> He is out in his reckoning. For <hi>Horn</hi> (thirſting after <hi>Bonners</hi> ruine, who it is thought was the man chiefly aimed at in that Act) began the Suit ſoon after that Act of 5. <hi>Eliz.</hi> and procured him to be Indicted, and <hi>Bonner</hi> demurr'd to it; which (as Do<g ref="char:EOLhyphen"/>ctor <hi>Heylin</hi> ſaith) <hi>being put off from Term to Term, came at laſt to be debated among the Judges at Serjeants Inne;</hi> which was in Michaelmas Term, which began in 6. <hi>Eliz.:</hi> betwixt which and the Parliament, was two years or near upon. So that Act could be no reaſon why it was delayed all that time, after the Judges had made that Rule for the Iſſue and trial of it.</p>
+            <p>Doctor <hi>Heylin</hi> therefore gives another reaſon for it, and I believe the true one,<note place="margin">p. 2. f. 173.</note> 
+               <hi>viz. that it was adviſed</hi> (which he muſt mean,) <hi>by the Judges, to Horn,</hi> for it was not in the power of <hi>Bonner,</hi> being De<g ref="char:EOLhyphen"/>fendant, to refer it,) <hi>that the deciſion of the point ſhould rather be referred to the following Parliament.</hi> And of this advice, he gives this reaſon, <hi>for fear ſuch a weigh<g ref="char:EOLhyphen"/>ty
+<pb n="66" facs="tcp:96084:42"/>
+matter might miſcarry by a contrary Jury.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> But this could be no reaſon: becauſe the Deciſion of the point in <hi>Law,</hi> upon which reſted the whole dif<g ref="char:EOLhyphen"/>ficulty, and which alone could be refer<g ref="char:EOLhyphen"/>red to the deciſion of the Parliament, (<hi>viz.</hi> whether <hi>the Form of</hi> Edw. 6. <hi>were Legal;</hi> or, <hi>whether one Conſecrated by that Form, were a Biſhop,</hi>) was not to be put to the Jury, but to be determined by the Judges, and the Jury to try onely the matter of <hi>fact, whether he were ſo Conſecrated.</hi> If therefore the Judges had delivered it for Law, that <hi>Horn,</hi> if ſo Conſecrated, was a Biſhop, and he could have proved he was ſo Conſecra<g ref="char:EOLhyphen"/>ted (as was eaſie, for him to do, if the Records be true,) the Jury muſt have found him a Biſhop, or incurred an <hi>at<g ref="char:EOLhyphen"/>taint,</hi> which there was no reaſon to fear they would do, in ſuch a cauſe as that, where the Queen was Plaintiff, a Proteſtant Biſhop (and their neighbour, and Landlord to moſt of them, being <hi>Southwark</hi> men) the Proſecutour, all the Biſhops and Clergy in the land, (made by the new Form,) extreamly intereſted in the verdict, and onely a Papiſt, gene<g ref="char:EOLhyphen"/>rally
+<pb n="67" facs="tcp:96084:42"/>
+hated, and deprived of all Office and power in the State, and then a pri<g ref="char:EOLhyphen"/>ſoner, the Defendant. And that which he addes to colour his reaſon, [<hi>That there had been ſome proof made before, of the par<g ref="char:EOLhyphen"/>tiallity or inſufficiency of a Jury, touching grants made by King</hi> Edwards <hi>Biſhops:</hi>] if meant of Juries in Queen <hi>Maries</hi> time, was no reaſon in Queen <hi>Eliza<g ref="char:EOLhyphen"/>beths:</hi> and if meant in <hi>Her</hi> time, helps to confirm what I ſay, that afore 8. <hi>Eliz.</hi> neither Judges, nor Juries, could finde King <hi>Edwards</hi> Biſhops were legal Biſhops. The true reaſon therefore why the Judges adviſed <hi>Horn</hi> to refer his Cauſe to the Parliament, can be no other then this, as I ſay, that they found an Act of Parliament was neceſſary to make him a Biſhop.</p>
+         </div>
+         <div n="19" type="chapter">
+            <head>
+               <hi>The nineteenth Chapter.</hi> 
+               <g ref="char:V">Ʋ</g>rging the ſecond inference, for the opi<g ref="char:EOLhyphen"/>nion of the Parliament.</head>
+            <p>MY ſecond inference is, that the Parliament 8. <hi>Eliz.</hi> were not of opinion that <hi>Horn</hi> was a legal Biſhop. For if they had:</p>
+            <p n="1">
+               <pb n="68" facs="tcp:96084:43"/>1. They would not have revived the Act of <hi>Edw.</hi> 6. for the Form of Ordi<g ref="char:EOLhyphen"/>nation: for that implied, it was not re<g ref="char:EOLhyphen"/>vived afore: and if not, they could be no legal Biſhops.</p>
+            <p n="2">2. They would have made no <hi>Law</hi> in the Caſe, but left it to a judgement of the <hi>Court,</hi> or onely given a <hi>Sentence</hi> in it themſelves.</p>
+            <p n="3">3. If they would make a <hi>Law</hi> for it: yet 1. They would not have <hi>enacted</hi> them to be Biſhops, but onely <hi>declared</hi> that they were ſo. 2. Nor would they have ſaid as they do <hi>[Be it declared and enacted, that all things heretofore done, in or about the Conſecration of Archbiſhops and Biſhops, be, and ſhall be, by Authority of this Parliament, at, and from every of the ſeveral times of doing thereof, good and perfect, any matter or thing that can or may be objected to the contrary notwith<g ref="char:EOLhyphen"/>ſtanding;]</hi> which, except meant of the <hi>making</hi> them ſo to be, by vertue of that Act, would be meer non-ſenſe and con<g ref="char:EOLhyphen"/>tradiction: but thus, [<hi>All things here<g ref="char:EOLhyphen"/>tofore done,</hi> &amp;c. <hi>were in very deed, at and from every of the ſeveral times of doing thereof, good, without authority of this Act, and any matter or thing to be objected to the
+<pb n="69" facs="tcp:96084:43"/>
+contrary.</hi>] 3. Nor would they have ſaid as they do, [<hi>All that have been Conſe<g ref="char:EOLhyphen"/>crated Archbiſhops,</hi> &amp;c. <hi>ſince her Ma<g ref="char:EOLhyphen"/>jeſties Reign, be in very deed, and alſo by authority hereof, declared, and enacted to be, and ſhall be, Archbiſhops, and Bi<g ref="char:EOLhyphen"/>ſhops, and rightly Conſecrated, any Law, Canon, or other thing to the contrary not<g ref="char:EOLhyphen"/>withſtanding;</hi>] which, except as afore, would be another ſtrange medley of non-ſenſe and contradictions, (which ambi<g ref="char:EOLhyphen"/>guous language they were driven to, out of a deſire to uſe ſome words for the ho<g ref="char:EOLhyphen"/>nour of the Biſhops, as if Biſhops afore, and of a neceſſity to uſe other, for the creating them ſuch then:) but they would have ſaid, in plain and good Eng<g ref="char:EOLhyphen"/>liſh, which would have put the mat<g ref="char:EOLhyphen"/>ter out of queſtion <hi>[All that have been Conſecrated, were in very deed, at and from every of the ſeveral times of their Conſecrations, Archbiſhops, and Biſhops, and rightly Conſecrated, according to Law.]</hi>
+            </p>
+            <p n="4">4. Nor would they have recited (as they do) at large, the Supream Autho<g ref="char:EOLhyphen"/>rity given to the Queen, by 1. <hi>Eliz. To aſſign and authorize ſuch perſons as ſhe ſhould think meet, to exerciſe under Her
+<pb n="70" facs="tcp:96084:44"/>
+all manner of Spiritual Juriſdiction,</hi> and thereupon inferred. [<hi>So that to all that will well conſider of the effect and true in<g ref="char:EOLhyphen"/>tent of the ſaid Statutes, and of the Su<g ref="char:EOLhyphen"/>pream and abſolute authority of the Queen</hi> (to make Biſhops, by Her <hi>Commiſſion</hi> onely, with, or without any Legal <hi>Form</hi> of Conſecration, or with, or without any <hi>Biſhops</hi> for the Conſecraters,) <hi>and which ſhe by her ſaid Letters Pattents hath uſed, in, and about their Conſecration,</hi> (by ſupplying to them all defects, either in the Form they ſhould uſe, or in the fa<g ref="char:EOLhyphen"/>culty, ſtate, or condition of the Conſe<g ref="char:EOLhyphen"/>craters, whether Biſhops or not Bi<g ref="char:EOLhyphen"/>ſhops) <hi>it is and may be evident that no cauſe of ſcruple can or may be objected againſt their Conſecrations;</hi> for this grounds the Legality, both of the Form, and of the Conſecraters, not upon the things in their own nature, but upon the authority of the Queens Commiſſi<g ref="char:EOLhyphen"/>on, which ſupplied to them all defects in Law: but they would have ſaid plain<g ref="char:EOLhyphen"/>ly, and without praying any ſuch aid from the Queens Supremacy, [<hi>They were Conſecrated by Legal Biſhops, and by a Legal Form;</hi> or <hi>the Form of</hi> Edw. 6. <hi>was a Legal Form, or was revived
+<pb n="71" facs="tcp:96084:44"/>
+by</hi> 1. Eliz. <hi>&amp;c.</hi>] ſeeing that was the one<g ref="char:EOLhyphen"/>ly exception againſt the Form of their Conſecrations.</p>
+            <p n="5">5. Nor, leaſt of all, after <hi>Bonner</hi> had put in a plea ſo inſolent, and reproach<g ref="char:EOLhyphen"/>ful to the Queen, Her Biſhops, and their whole Clergy and Church, and (if <hi>Horn</hi> had been a Biſhop) had incurr'd a <hi>Pre<g ref="char:EOLhyphen"/>munire</hi> for refuſing the Oath of Supre<g ref="char:EOLhyphen"/>macy; and when the acquittal of him, and of all other refractory refuſers of the Oath, afore the laſt day of that Seſſion, (when there was no other exception to the Certificates, but this, <hi>that they that made them were no Biſhops,</hi>) and this, without, and afore any petition exhibi<g ref="char:EOLhyphen"/>ted, or ſubmiſſion promiſed, on the De<g ref="char:EOLhyphen"/>linquents part, would, in the interpretati<g ref="char:EOLhyphen"/>on of all indifferent men, redound no<g ref="char:EOLhyphen"/>tably to the juſtifying of <hi>Bonner</hi>'s plea, and conſequently, to the infamy of their whole Clergy, and Church: I ſay, all this conſidered, they would never have made ſuch Proviſo's, for the indemnity of <hi>Bonner</hi> and the other Delinquents, if they could have found <hi>Horn</hi> a Legal Biſhop.</p>
+         </div>
+         <div n="20" type="chapter">
+            <pb n="72" facs="tcp:96084:45"/>
+            <head>
+               <hi>The twentieth Chapter.</hi> Refuting the ſhifts deviſed to evade this inference.</head>
+            <p>
+               <note place="margin">l. 3. c. 11. n. 7.</note>MAſter <hi>Maſon,</hi> ſaith, <hi>This annulling of</hi> Horn<hi>'s Certificate, doth not argue</hi> Bonner<hi>'s innocence, or any Defect in</hi> Horn<hi>'s being a Biſhop, but onely the great favour and indulgence of the Parlia<g ref="char:EOLhyphen"/>ment. For</hi> (ſaith he) <hi>firſt they cleared our Biſhops from the calumny of their adverſa<g ref="char:EOLhyphen"/>ries, and then graciouſly pardoned</hi> Bonner <hi>and his fellows, that had ſo impudently flown upon the Biſhops, for offering the Oath to them. For they hoped it would come to paſs, that they who out of ignorance, or malice, had alwayes before that been ſnar<g ref="char:EOLhyphen"/>ling at their Conſecrations, would at length be wiſe.</hi>
+            </p>
+            <p>
+               <hi>Refut.</hi> 1. They did not <hi>firſt clear their Biſhops</hi> (as is ſhewed afore.) 2. Nor did they <hi>pardon Bonner</hi> and his fellows, but <hi>annul</hi> the proceſs. 3. That Act was ſo far from ſhewing the Catholiques their errour touching the nullity of their Bi<g ref="char:EOLhyphen"/>ſhops, as it ſerved rather to confirm them in it. 4. I cannot think Maſter
+<pb n="73" facs="tcp:96084:45"/>
+               <hi>Maſon</hi> was ſo ſimple, as either to be<g ref="char:EOLhyphen"/>lieve it himſelf, or hope to perſwade it to any reaſonable man, either that the Parliament had any ſuch hope of <hi>Bonner</hi> and his fellows, or if they had, that that hope ſhould move them to ſhew ſuch favour to men that had <hi>ſo impudent<g ref="char:EOLhyphen"/>ly flown upon their Biſhops,</hi> onely <hi>for of<g ref="char:EOLhyphen"/>fering an Oath to them,</hi> which the Law authorized them to do: or if they did, that they would not have intimated that to have been the reaſon of their favour, (thereby to prevent the adverſaries miſ<g ref="char:EOLhyphen"/>conſtruction of it,) nor have limited that favour to ſuch who ſhould <hi>at length be wiſe,</hi> and <hi>not ſnarl any more at their Conſecrations;</hi> nor have appointed ſen<g ref="char:EOLhyphen"/>tence to be firſt given for their being Bi<g ref="char:EOLhyphen"/>ſhops, and then the Delinquents to have their pardons upon ſuing out, but whol<g ref="char:EOLhyphen"/>ly annul the Indictments, and all Certi<g ref="char:EOLhyphen"/>ficates of their Biſhops.</p>
+            <p>Doctor <hi>Heylin,</hi> ſaith,<note place="margin">par. 2. fol. 174.</note> 
+               <hi>This favour was indulged, to them of the Laiety, in hope of gaining them by fair means, to a ſenſe of their duty; to</hi> Bonner, <hi>and the reſt of the Biſhops, as men that had ſufficiently ſuf<g ref="char:EOLhyphen"/>fered upon that account, by the loſs of their Biſhopricks.</hi>
+            </p>
+            <p>
+               <pb n="74" facs="tcp:96084:46"/>
+               <hi>Refut.</hi> But 1. no favour could be in<g ref="char:EOLhyphen"/>tended to them of the <hi>Laiety,</hi> becauſe the Act (of 5. <hi>Eliz.</hi>) authorized not the tendring of the Oath to any but <hi>Eccleſiaſtical</hi> perſons.</p>
+            <p n="2">2. The favour was indulged, not to <hi>deprived Biſhops</hi> onely, but to all Deans, Archdeacons, Prebends, Parſons, Vicars, <hi>&amp;c.</hi> and to them that had yet perhaps loſt nothing, as well as to them that had.</p>
+            <p n="3">3. As ſoon as their Biſhops ſhould be Legal (that is, preſently after that Seſ<g ref="char:EOLhyphen"/>ſion,) the penalty of that Law was to be inflicted on all alike, as well <hi>the deprived Biſhops,</hi> as any other.</p>
+            <p>Doctor <hi>Bramhal</hi> therefore gives a more likely reaſon of thoſe Proviſo's, <hi>viz.</hi> the ambiguity of the Act of 1: <hi>Eliz.</hi> whether it had revived the Book of Ordination,<note place="margin">pag. 99.</note> or not. [<hi>Although</hi> (ſaith he) <hi>the Caſe was ſo evident, and was ſo judged by the Parliament, that the Form of Conſecration was comprehended under the name and notion of the Book of Com<g ref="char:EOLhyphen"/>mon-Prayer: yet in the Indictment againſt</hi> Bonner, <hi>I commend the diſcre<g ref="char:EOLhyphen"/>tion of our Judges, and much more the moderation of the Parliament. Cri<g ref="char:EOLhyphen"/>minal Laws ſhould be written with a beam
+<pb n="75" facs="tcp:96084:46"/>
+of the Sun, without all ambiguity.</hi>]</p>
+            <p>
+               <hi>Refut.</hi> But neither will this reaſon hold water. For 1. the Caſe was not <hi>evident,</hi> that the Book of Ordination was revived with the Liturgy as a part of it, but rather evident it was not (for the reaſons given <hi>ſupra.</hi>] 2. The Caſe was not <hi>ſo judged by the Parliament,</hi> but rather the contrary (as is ſhewed <hi>ſupra.</hi>) 3. How could the Caſe be <hi>evident,</hi> and yet <hi>Ambiguous?</hi> (as he ſaith both.) 4. Had it been meer <hi>moderation</hi> of the Parlia<g ref="char:EOLhyphen"/>ment, by reaſon of <hi>the ambiguity of the Law;</hi> they might, and no doubt would have intimated as much and (conſidering the conjuncture of things) have found out ſome other way of ſhewing that mo<g ref="char:EOLhyphen"/>deration (as by <hi>pardoning</hi> the Delin<g ref="char:EOLhyphen"/>quents, <hi>&amp;c.</hi>) then by annulling the In<g ref="char:EOLhyphen"/>dictment, after ſuch a plea entred by <hi>Bonner, that Horn was no Biſhop:</hi> for this could ſignifie no leſs then an acknow<g ref="char:EOLhyphen"/>ledging of the Plea.</p>
+         </div>
+         <div n="20" type="chapter">
+            <pb n="76" facs="tcp:96084:47"/>
+            <head>
+               <hi>The one and twentieth Chapter.</hi> Proving the ſecond part of the reaſor, that it was not revived then.</head>
+            <p>THe ſecond part of my reaſon, that <hi>the Act of</hi> Edw. 6. <hi>for the Book of Ordination was not revived by</hi> 8. Eliz. is proved: becauſe the Act of Queen <hi>Mary</hi> for repeal of it, was never yet re<g ref="char:EOLhyphen"/>pealed: and ſo being then in force, was an obſtacle to the Legal reviving of King <hi>Edwards</hi> Act: becauſe two repugnant Laws, (as thoſe were) cannot be both in force: and the Act of Q. <hi>Eliz.</hi> be<g ref="char:EOLhyphen"/>ing the latter, could not be in force, till the other were repealed.</p>
+            <p>If it be ſaid, Queen <hi>Maries</hi> Form was repealed <hi>virtually,</hi> and in the <hi>intention</hi> of the Law-maker, by authorizing an<g ref="char:EOLhyphen"/>other. 1. This is not ſufficient, becauſe an Act of Parliament is not legally re<g ref="char:EOLhyphen"/>pealed but by <hi>expreſs</hi> words. 2. Grant it were ſufficient: yet Queen <hi>Maries</hi> Form was not repealed, ſo much as <hi>vir<g ref="char:EOLhyphen"/>tually;</hi> becauſe a Law cannot be abro<g ref="char:EOLhyphen"/>gated, but by as great an authority as made it; which this was not: becauſe Queen <hi>Maries</hi> Act was made by a <hi>full</hi>
+               <pb n="77" facs="tcp:96084:47"/>
+Parliament, or by all the three Eſtates, (<hi>Lords Spiritual, Temporal,</hi> and <hi>Com<g ref="char:EOLhyphen"/>mons,</hi>) whereas the repeal was but by two thirds of the Parliament, or by two Eſtates onely, (the <hi>Lords Temporal</hi> and <hi>Commons;</hi>) thoſe that then ſate upon the Biſhops Bench in the Lords Houſe, being no Biſhops (as is proved <hi>ſupra,</hi>) and all the Catholique Biſhops then li<g ref="char:EOLhyphen"/>ving, (which were the rightful Biſhops) being, <hi>by unjuſt force,</hi> hindered from be<g ref="char:EOLhyphen"/>ing preſent, and diſſenting to what was done. I ſay, <hi>by unjuſt force:</hi> becauſe neither were they deprived by any judi<g ref="char:EOLhyphen"/>cial ſentence, (whence it was found need<g ref="char:EOLhyphen"/>ful afterward to make their deprivations good, by a <hi>Law,</hi> 39. <hi>Eliz.</hi> 1.) nor was that Act of 1. <hi>Eliz.</hi> which enacted the Oath of Supremacy, and involved the refuſers of it in a <hi>Premunire,</hi> by vertue whereof they were by force put out of their Biſhopricks, and kept in priſon, a Legal Act, for reaſons given <hi>infra.</hi>
+            </p>
+            <p>If it be ſaid, the authority of the <hi>two</hi> Eſtates (if they were no more) was as great <hi>formally,</hi> as of all the <hi>three;</hi> be<g ref="char:EOLhyphen"/>cauſe the Biſhops are no eſſential part of the Parliament. 1. This is ſaid <hi>gratis,</hi> for they are, and (when no violence
+<pb n="78" facs="tcp:96084:48"/>
+hath been on foot againſt them) ever have been counted, an eſſential part. And this Parliament now in being, ſeems to acknowledge as much, when ſpeaking of the Act of the Long Parliament for aboliſhing the Biſhops Juriſdiction,<note place="margin">13. Car. 2.2.</note> they ſay, <hi>it contained divers alterations preju<g ref="char:EOLhyphen"/>dicial to the conſtitution, and ancient rights of Parliament, and contrary to the Laws of the Land:</hi> meaning principally the excluding them from their Votes in Parliament; and ſo thereby implying, that they were a <hi>conſtitutive</hi> part of the Parliament, by ancient Right, and the Law of the Land. 2. Granting (as it may be true, in caſe of neceſſity, as now, when there are no Biſhops in the Land) that they were no neceſſary part <hi>abſolute<g ref="char:EOLhyphen"/>ly</hi> or as to <hi>all</hi> affairs, namely, not as to the making of <hi>Civil</hi> Laws, or which ſhould concern the Subjects in <hi>common:</hi> yet certainly in Acts that purely con<g ref="char:EOLhyphen"/>cern <hi>Religion,</hi> and the <hi>Clergy</hi> in parti<g ref="char:EOLhyphen"/>cular, it muſt be ſaid in reaſon, they are an <hi>eſſential</hi> part: becauſe they alone are to be ſuppoſed knowing in Gods Law; and they being ſo conſiderable a part of the Nation, cannot be conclu<g ref="char:EOLhyphen"/>ded by the Laws there made, unleſs they
+<pb n="79" facs="tcp:96084:48"/>
+have ſome to repreſent them, and inter<g ref="char:EOLhyphen"/>poſe in their behalf; which they have none there but the Biſhops. And ſo for this reaſon, this act of 8. <hi>Eliz.</hi> for au<g ref="char:EOLhyphen"/>thorizing the Form of Conſecrating Bi<g ref="char:EOLhyphen"/>ſhops, and the firſt and ſecond Acts of 1. <hi>Eliz.</hi> for enacting the Oath of Su<g ref="char:EOLhyphen"/>premacy in cauſes Eccleſiaſtical, making it treaſonable to take Orders from the See of <hi>Rome,</hi> eſtabliſhing the Form of publick Divine Service and Sacraments, <hi>&amp;c.</hi> and all other that have been made ſince, in matters of Religion, are no valid Acts in Law; becauſe made with<g ref="char:EOLhyphen"/>out conſent of the Lords <hi>Spiritual;</hi> the rightful Biſhops at that time, (whilſt there were any living) being unjuſtly ex<g ref="char:EOLhyphen"/>cluded from the Parliament; and none of thoſe that have been made ſince the beginning of Queen <hi>Eliz.</hi> Reign, being Legal Biſhops.</p>
+         </div>
+         <div type="epilogue">
+            <head>Epilogue.</head>
+            <p>ANd now the Reader may judge how little reaſon Doctor <hi>Heylin</hi> had to boaſt, (as he does) of his Church, as it was ſettled by Q <hi>Eliz.</hi> and to beſtow ſo much pains in writing that Book to deſcribe that ſettlement. <q>And now we may behold (ſaith he) the face of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+                  <pb facs="tcp:96084:49"/>
+as it was firſt ſettled and eſtabliſhed under Q. <hi>Eliz.</hi> The Government of the Church, by Archbiſhops, and Biſhops, <hi>&amp;c.</hi> Theſe Biſhops nominated and elected according to the Statute of 20. <hi>Hen.</hi> 8. and Conſecrated by the Ordinal confirmed by Parliament, 5 and 6. <hi>Edw.</hi> 6, <hi>&amp;c.</hi> the <hi>Doctrine</hi> of the Church, reduced into its ancient purity, according to the <hi>Articles</hi> agreed upon in Convocation, in the Year 1562. and ratified in due form of Law, by the Queens au<g ref="char:EOLhyphen"/>thority. The <hi>Liturgy,</hi> confirmed in Parlia<g ref="char:EOLhyphen"/>ment <hi>And a little after.</hi> "[By this laſt Act (of 8. <hi>Eliz.</hi>) the Church (of <hi>England</hi>) is ſtrongly ſettled on Her <hi>natural Pillars</hi> of <hi>Doctrine, Government,</hi> and <hi>Worſhip,</hi> not otherwiſe to have been ſhaken but by the blinde zeal of ſuch furious <hi>Sampſons</hi> as were reſolved to pull it on their own heads, rather then to ſuffer it to ſtand in ſo much glory.]</q> 
+               <hi>Eccl. Reſtau.</hi> p. 2. f. 122. and 173.</p>
+            <p>For, what was this <hi>glorious</hi> Church of his, but a <hi>natural</hi> Fabrick, rear'd upon (as he calls them) <hi>natural</hi> Pillars, and the foundations of thoſe Pillars, <hi>natural</hi> foundations, the <hi>Queen,</hi> and <hi>Parliament;</hi> and that <hi>Parliament</hi> without any Biſhops, or ſo much as one <hi>Clergy-man</hi> in it? Whence this <hi>glorious</hi> Church, as it hath been once already overturned to the ground, and (as he acknowledges, and complains) the <hi>very foundations of it digged up,</hi> by thoſe <hi>furious Sampſons;</hi> ſo it may be at any time again, when a <hi>Pres<g ref="char:EOLhyphen"/>byterian</hi> or <hi>Fanatick</hi> Parliament or Army, ſhall get (which God avert) the Sword again into their hands.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="appendix">
+            <pb n="81" facs="tcp:96084:49"/>
+            <head>Appendix.</head>
+            <p>For the better underſtanding of the former Diſcourſe, I have here ſet down ſome Extracts out of the ancient forms of Or<g ref="char:EOLhyphen"/>daining Biſhops, in the Greek and Latine Church: and out of the Acts of Parlia<g ref="char:EOLhyphen"/>ment quoted in the third Part; and the Act of <hi>8. Eliz.</hi> at large.</p>
+            <div n="Greek" type="ordination_ritual">
+               <head>Forms of the Greek Church.</head>
+               <p>UNus ex primis Epiſcopis,<note place="margin">S. Clem. Conſt.</note> una cum duobus aliis ſtans prope Altare, re<g ref="char:EOLhyphen"/>liquis Epiſcopis &amp; Presbyteris tacitè pre<g ref="char:EOLhyphen"/>cationem facientibus, &amp; Diaconis aperta Evangelia ſuper caput ejus qui Ordinatur tenentibus, in hunc modum precetur. Here <hi>Domine Deus omnipotens, &amp;c. Da huic famulo tuo quem ad Epiſcopatum elegiſti, ut paſcat ſanctum gregem tuum, atque ut Pontificatu tibi ſanctè fungatur, &amp;c. Da ei participationem Sancti Spiri<g ref="char:EOLhyphen"/>tûs,
+<pb n="82" facs="tcp:96084:50"/>
+ut habeat poteſtatem remittendi pec<g ref="char:EOLhyphen"/>cata ſecundum mandatum tuum; item dandi cleros, ut tu juſſiſti, ac ſolvendi omne vinculum ſecundum poteſtatem quam Apo<g ref="char:EOLhyphen"/>ſtolis dediſti, &amp; offerendi tibi ſacrificium mundum &amp; incruentum quod per Chriſtum inſtituiſti, &amp;c.</hi>
+               </p>
+               <p>
+                  <note place="margin">S. Dionyſ. Areop. de Eccl. Hier. c. <hi>5.</hi>
+                  </note>Pontifex qui ad Conſecrationem in Pontificem adducitur, utroque genu flexo ante Altare, ſupra caput habet Evangelia, manumque Pontificis: atque hoc modo ab eo Pontifice qui eum Conſecrat, ſan<g ref="char:EOLhyphen"/>ctiſſimis precationibus Conſecratur.</p>
+               <p>
+                  <note place="margin">MS. anti<g ref="char:EOLhyphen"/>tiquus in Bibl. Card. Barberini.</note>Aperiens Epiſcopus Evangelium, im<g ref="char:EOLhyphen"/>ponit illud ſuper caput &amp; collum ipſius Ordinandi, aſtantibus aliis Epiſcopis, &amp; tangentibus ipſum S. Evangelium, Ar<g ref="char:EOLhyphen"/>chiepiſcopus autem imponens illi manum, ſic precatur. Here, <hi>Domine Deus noſter, confirma hunc electum, ut per manum mei peccatoris, &amp; aſſiſtentium Miniſtrorum &amp; Coepiſcoporum, Sancti<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Spiritûs adventu, virtute, &amp; gratia., ſubeat Evangelicum jugum, &amp; dignitatem Epiſcopalem, &amp;c.</hi>
+               </p>
+               <p>
+                  <note place="margin">Eucholog. Conſtanti<g ref="char:EOLhyphen"/>nopolit. Eccleſiae.</note>Evangelium accipit Praeſul, &amp; imponit illud ſuper dorſum illius qui Ordinatur, &amp; omnes Epiſcopi qui illic ſunt, impo<g ref="char:EOLhyphen"/>nunt manus ſuper illum ex utroque la<g ref="char:EOLhyphen"/>tere, donec omnes preces abſolutae fue<g ref="char:EOLhyphen"/>rint.
+<pb n="83" facs="tcp:96084:50"/>
+Repetit Praeſul, <hi>Domine Deus, elige in Eccleſia tua N. hunc N. Presbyterum, in opus magnum Epiſcopatus. Precemur omnes pro eo, ut veniat donum tuum Do<g ref="char:EOLhyphen"/>mine, &amp; eum virtute perficiat, &amp; conſum<g ref="char:EOLhyphen"/>met in miniſterio Epiſcopali. Indue eum Domine virtute ex alto, ut liget &amp; ſolvat in coelis &amp; in terra, &amp; creet in virtute doni tui Presbyteros &amp; Diaconos, &amp;c.</hi>
+               </p>
+            </div>
+            <div n="Latin" type="ordination_ritual">
+               <head>Forms of the Latine Church.</head>
+               <p>Epiſcopus cum Ordinatur,<note place="margin">MS. Pa<g ref="char:EOLhyphen"/>riſ. ſcri<g ref="char:EOLhyphen"/>ptus ante annum, <hi>560.</hi>
+                  </note> duo Epiſco<g ref="char:EOLhyphen"/>pi manus eorum ſuper caput ejus ponant, &amp; teneant Evangeliorum codicem ſupra cervicem ejus. Et unum ſuper eum fun<g ref="char:EOLhyphen"/>dentem benedictionem, reliqui omnes Epiſcopi qui adſunt, manibus ſuis ſupra caput ejus teneant.</p>
+            </div>
+            <div type="oration">
+               <head>Oratio, &amp; precis de Epiſcopis Ordinandis.</head>
+               <p>
+                  <q>Oremus, dilectiſſimi nobis, ut his viris ad utilitatem Eccleſiae providen<g ref="char:EOLhyphen"/>dis, benignitas omnipotentis Dei gra<g ref="char:EOLhyphen"/>tiae ſuae tribuat largitatem.</q> Per, &amp;c.</p>
+               <p>
+                  <q>Exaudi, Domine, ſupplicum preces, ut quod noſtrum gerendum eſt mini<g ref="char:EOLhyphen"/>ſterium, tua potius virtute firmetur. Per, &amp;c.</q>
+               </p>
+               <p>
+                  <pb n="84" facs="tcp:96084:51"/>
+                  <q>Propitiare Domine ſupplicationibus noſtris, &amp; inclinatus ſuper hos famulos tuos cornu gratiae Sacerdotalis, bene<g ref="char:EOLhyphen"/>dictionis tuae in eos effunde virtutem. Per, &amp;c.</q>
+               </p>
+               <p>
+                  <hi>Conſecratio.</hi>
+               </p>
+               <p>
+                  <q>Deus honorum omnium, &amp;c. qui Moyſen famulum tuum, inter caetera coeleſtis documenta culturae, de habitu quoque indumenti Sacerdotalis inſtitu<g ref="char:EOLhyphen"/>ens, electum Aaron myſtico amictu veſtire inter ſacra juſſiſti, ut intelligen<g ref="char:EOLhyphen"/>tiae ſenſum de exemplis priorum cape<g ref="char:EOLhyphen"/>ret ſecutura poſteritas, &amp;c.</q> Et id circo, famulis tuis, quaeſumus, quos ad Summi Sacerdotii Sacerdotium elegiſti, hanc quaeſumus Domine gratiam largiaris, ut quicquid illa velamina, in fulgore auri, in nitore gemmarum, &amp; multimodi ope<g ref="char:EOLhyphen"/>ris varietate ſignabant, hoc in horum mo<g ref="char:EOLhyphen"/>ribus clareſcat. Comple, Domine, in Sacerdotibus tuis myſterii tui ſummam, &amp; ornamentis totius glorificationis in<g ref="char:EOLhyphen"/>ſtructum, coeleſtis unguenti rore ſancti<g ref="char:EOLhyphen"/>fica. Hoc Domine copiosè in eorum caput influat, hoc in oris ſubjecta decur<g ref="char:EOLhyphen"/>rat, hoc in totius corporis extrema de<g ref="char:EOLhyphen"/>ſcendat, &amp;c. Da eis Domine claves re<g ref="char:EOLhyphen"/>gni coelorum: quodcunque ligaverint
+<pb n="85" facs="tcp:96084:51"/>
+ſuper terram, ſit ligatum &amp; in coelis; ..... Tribuas eis Domine Cathedram Epiſco<g ref="char:EOLhyphen"/>palem ad regendam Eccleſiam tuam, &amp; plebem univerſam. Sis eis authoritas, ſis eis poteſtas, &amp;c.</p>
+               <p>
+                  <hi>Benedictiones ſuper eos qui ſacris Ordi<g ref="char:EOLhyphen"/>nationibus benedicendi ſunt.</hi>
+                  <note place="margin">Sacramen<g ref="char:EOLhyphen"/>tarium Gelaſia<g ref="char:EOLhyphen"/>num. MS. poſt prio<g ref="char:EOLhyphen"/>rom anti<g ref="char:EOLhyphen"/>quiſſimus.</note>
+               </p>
+               <p>Oratio ad Ordinandos Epiſcopos <hi>Ore<g ref="char:EOLhyphen"/>mus dilectiſſimi, &amp;c.</hi> ut ſupra. Benedictio Epiſcoporum. <hi>Adeſto ſupplicationibus no<g ref="char:EOLhyphen"/>ſtris, omnipotens Deus, &amp; quod humilitatis noſtrae gerendum eſt miniſterio, virtutis tuae impleatur effectu.</hi> Alia. <hi>Propitiare Do<g ref="char:EOLhyphen"/>mine ſupplicationibus noſtris, &amp; inclinato ſuper hunc famulum tuum cornu gratiae Sacerdotalis, &amp;c.</hi> Conſecratio. <hi>Deus ho<g ref="char:EOLhyphen"/>norum omnium, &amp;c.</hi> ut ſupra ...... <hi>coeleſtis unguenti flore ſanctifica.</hi> (Hîc mittatur Chriſma ſuper Caput ejus) <hi>Hoc Domine copiosè, &amp;c.</hi> ut ſupra.</p>
+               <p>
+                  <hi>Incipit Ordinatio Epiſcopi.</hi>
+                  <note place="margin">MS. Ec<g ref="char:EOLhyphen"/>cleſiae Ro<g ref="char:EOLhyphen"/>tomagen<g ref="char:EOLhyphen"/>ſis, ſcri<g ref="char:EOLhyphen"/>ptus circa ann <hi>900.</hi> in, &amp; pro Angliâ.</note> Epiſco<g ref="char:EOLhyphen"/>pum qui Ordinandus eſt duo Epiſcopi per manus de Secretario, antequam Evange<g ref="char:EOLhyphen"/>lium legatur, deducant ante Altare, &amp; eo inibi proſternato, ab Archiepiſcopo in<g ref="char:EOLhyphen"/>choetur Letania: quâ finitâ, &amp; eo erecto, ponatur Evangelium ſuper ſcapulas ejus, &amp; has dicant Epiſcopi ſuper eum oratio<g ref="char:EOLhyphen"/>nes. <hi>Oremus dilectiſſimi, &amp;c.</hi> ut ſupra.
+<pb n="86" facs="tcp:96084:52"/>
+Alia. <hi>Adeſto Domine, &amp;c.</hi> ut ſupra. Alia. <hi>Propitiare Domine, &amp;c.</hi> ut ſupra. Solus vero Archiepiſcopus hanc dicat <hi>Conſecra<g ref="char:EOLhyphen"/>tionem,</hi> caeteris aſtantibus, &amp; duobus Epi<g ref="char:EOLhyphen"/>ſcopis Evangelium ſuper ipſum qui Ordi<g ref="char:EOLhyphen"/>nandus eſt tenentibus. <hi>Deus honorum om<g ref="char:EOLhyphen"/>nium, &amp;c.</hi> ut ſupra, <hi>rore ſanctifica.</hi> (Hîc mittatur Chriſma) <hi>&amp;c.</hi> Item alia ſuper Epiſcopum. <hi>Pater ſancte,</hi> &amp;c. <hi>ut per te, in ſummum ad quod aſſumitur Sacerdotium Conſecretur,</hi> &amp;c......Conſecratio manuum Epiſcopi oleo ſancto &amp; Chriſmate. Hîc mittatur Oleum ſuper caput ejus. [<hi>
+                     <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>gatur &amp; Conſecretur caput tuum in coe<g ref="char:EOLhyphen"/>leſti benedictione, in Ordinem Pontificalem. In nomine Patris,</hi> &amp;c.]</p>
+               <p>
+                  <note place="margin">MS. in Monaſt. S. Germani, in Suburb. Pariſ. ſcrip. ante ann. <hi>950.</hi>
+                  </note>Finita Letaniâ, duo Epiſcopi tenentes librum Evangelii ſuper ſcapulas; Archiepi<g ref="char:EOLhyphen"/>ſcopus benedicat eum. <hi>Adeſto Domine,</hi> &amp;c. ut ſup. Alia. <hi>Propitiare Domino,</hi> &amp;c. ut ſup. Conſecratio, ab Archiepiſcopo ſolo dicenda. <hi>Deus honorum omnium,</hi> &amp;c.</p>
+               <p>
+                  <note place="margin">MS. in Bi<g ref="char:EOLhyphen"/>bliotheca Canonic. Regular. S. Victoris in Suburb. Pariſ. cir<g ref="char:EOLhyphen"/>ca ann. <hi>1100.</hi>
+                  </note>Duo Epiſcopi ponant &amp; teneant textum Evangelii apertum ſuper caput ejus: &amp; D. Metropolitanus infundens Benedictio<g ref="char:EOLhyphen"/>nem ſuper eum, dicat, lentâ voce, <hi>Ore<g ref="char:EOLhyphen"/>mus dilectiſſimi,</hi> &amp;c. Sequitur Benedictio. <hi>Propitiare Domine,</hi> &amp;c. Prefatio. <hi>Deus honorum omnium, &amp;c.</hi> ut ſupra.</p>
+            </div>
+         </div>
+         <div type="Act_of_Parliament">
+            <pb n="87" facs="tcp:96084:52"/>
+            <head>Acts of Parliament. 25. H. 8.20.</head>
+            <p>IF the perſon be elected to the of<g ref="char:EOLhyphen"/>fice of an Archbiſhop, the King ſhall by his Letters Patents ſignifie the ſaid election to one Archbiſhop and two other Biſhops, or elſe to four Biſhops to be aſſigned by the King, requiring and commanding him or them, to confirm the ſaid ele<g ref="char:EOLhyphen"/>ction, and to inveſt and Conſecrate the ſaid perſon ſo elected, to the office and dignity that he is elected unto, and to give and uſe to him ſuch Pall, and all other Benedictions, and Ce<g ref="char:EOLhyphen"/>remonies, and things requiſite for the ſame. And every perſon being hereafter elected, inveſted, and Con<g ref="char:EOLhyphen"/>ſecrated to the dignity or office of any Archbiſhop or Biſhop, according to the tenor of this Act, ſhall and may be authorized and inſtalled, &amp;c. and ſhall and may do and execute in eve<g ref="char:EOLhyphen"/>ry thing and things touching the ſame, as any Archbiſhop or Biſhop
+<pb n="88" facs="tcp:96084:53"/>
+of this Realme (without offending the prerogative Royal of the Crown, and the Laws and Cuſtoms of this Realm) might at any time hereto<g ref="char:EOLhyphen"/>fore do.</p>
+            <div type="Act">
+               <head>5. &amp; 6. Edw. 6. 1. An Act for the Uniformity of Common Prayer, and Adminiſtration of the Sacraments.</head>
+               <p>WHereas there hath béen a god<g ref="char:EOLhyphen"/>ly order ſet forth by authority of Parliament, for Common Pray<g ref="char:EOLhyphen"/>er, and Adminiſtration of the Sa<g ref="char:EOLhyphen"/>craments, &amp;c. the King hath by the authority of the Lords and Com<g ref="char:EOLhyphen"/>mons in this Parliament aſſembled, cauſed the aforeſaid order of Com<g ref="char:EOLhyphen"/>mon Service, entituled, <hi>The Book of Common Prayer,</hi> to be explained and made perfect; and by the aforeſaid authority, hath annexed and joyned it ſo explained and perfected, to this preſent Statute, adding alſo a form and manner of making and Conſe<g ref="char:EOLhyphen"/>crating of Archbiſhops, Biſhops, Prieſts, and Deacons, to be of like
+<pb n="89" facs="tcp:96084:53"/>
+force, authority, and value, as the ſame like foreſaid Book of Common Prayer was before, &amp;c. If any ſhall wittingly hear and be preſent at any other manner or form of Common Prayer, of adminiſtration of Sacra<g ref="char:EOLhyphen"/>ments, of making Miniſters in the Churches, or of any other Rites con<g ref="char:EOLhyphen"/>tained in the Book annexed to this Act, then is mentioned and ſet forth in the ſaid Book, &amp;c.</p>
+            </div>
+            <div type="Act">
+               <head>1. Eliz. 2. That there ſhall be Uniformity of Pray<g ref="char:EOLhyphen"/>er, and Adminiſtration of Sacra<g ref="char:EOLhyphen"/>ments.</head>
+               <p>WHereas at the death of our late Sovereign Lord King <hi>Edw.</hi> 6. there remained one uniform order of Common Service and Prayer, and of the adminiſtration of Sacraments, Rites, and Ceremo<g ref="char:EOLhyphen"/>nies in the Church of <hi>England,</hi> which was ſet forth in one Book, intituled, <hi>The Book of Common Prayer and Ad<g ref="char:EOLhyphen"/>miniſtration of Sacraments, and other Rites and Ceremonies in the Church
+<pb n="90" facs="tcp:96084:54"/>
+of England,</hi> authorized by Act of Parliament, holden in the 5. and 6. years of our ſaid late Sovereigne, intituled, <hi>An Act for the Uniformity of Common Prayer, and Adminiſtrati<g ref="char:EOLhyphen"/>on of the Sacraments,</hi> the which was repealed by Act of Parliament in the firſt year of the Reign of our late Sovereign Queen <hi>Mary,</hi> to the great decay of the due honour of God, and diſcomfort to the Profeſſors of the truth of Chriſts Religion: Be it therefore enacted, &amp;c. that the ſaid Eſtatute of Repeal, and every thing therein contained, <hi>onely</hi> concerning the ſaid Book, and the Service, Ad<g ref="char:EOLhyphen"/>miniſtration of the Sacraments, Rites and Ceremonies contained or appointed in or by the ſaid Book, ſhall be void and of none effect. And that the ſaid Book, with the order of Service, and of the Adminiſtra<g ref="char:EOLhyphen"/>tion of Sacraments, Rites and Ce<g ref="char:EOLhyphen"/>remonies, with the alterations and additions therein added and appoin<g ref="char:EOLhyphen"/>ted by the Eſtatute, ſhall ſtand and be in full force, &amp;c.</p>
+            </div>
+            <div type="Act">
+               <pb n="91" facs="tcp:96084:54"/>
+               <head>8. Eliz. 1. All Acts made by any perſon ſince 1. Eliz. for the Conſecrating, Inveſting <hi>&amp;c.</hi> of any Archbiſhop or Biſhop, ſhall be good.</head>
+               <p>FOraſmuch as divers queſtions by overmuch boldneſs of ſpeech and talk amongſt many of the common ſort of people, hath lately grown up<g ref="char:EOLhyphen"/>on the making and Conſecrating of Archbiſhops and Biſhops within this Realm, whether the ſame were and be duly and orderly done accord<g ref="char:EOLhyphen"/>ing to the Law or not, which is much tending to the ſlander of all the ſtate of the Clergy, being one of the greateſt States of this Realm: Therefore for the avoiding of ſuch ſlanderous ſpéech, and to the end that every man that is willing to know the truth, may plainly underſtand that the ſame evil ſpeech and talk is not grounded upon any juſt matter or cauſe, It is thought convenient hereby, partly to touch ſuch autho<g ref="char:EOLhyphen"/>rities as do allow and approve the
+<pb n="92" facs="tcp:96084:55"/>
+making and Conſecrating of the ſame Archbiſhops and Biſhops, to be duly and orderly done, according to the Lawes of this Realme; and thereupon further to provide for the more ſurety thereof, as hereafter ſhall be expreſſed.</p>
+               <p>Firſt, it is very well known to all degrées of this Realm, that the late King, of moſt famous memory, K. <hi>Henry</hi> 8. as well by all the Cler<g ref="char:EOLhyphen"/>gy then of this Realm, in their ſe<g ref="char:EOLhyphen"/>veral Convocations, as alſo by all the Lords Spiritual and Temporal, and Commons, in divers of his Par<g ref="char:EOLhyphen"/>liaments, was juſtly and rightfully recognized and knowledged to have the ſupream Power, Iuriſdiction, Order, Rule and Authority over all the State Eccleſiaſtical of the ſame; and the ſame power, juriſdiction and authority did uſe accordingly. And that alſo the ſaid late King, in the Five and twentieth year of his Reign, did by authority of Parlia<g ref="char:EOLhyphen"/>ment, amongſt other things, ſet forth a certain Order of the manner and form how Archbiſhops and Bi<g ref="char:EOLhyphen"/>ſhops ſhould be elected and made, as
+<pb n="93" facs="tcp:96084:55"/>
+by the ſame more plainly appears. And that alſo the late King of wor<g ref="char:EOLhyphen"/>thy memory King <hi>Edward</hi> the Sixth, did lawfully ſucceed his Father in the Imperial Crown of this Realm, and did juſtly poſſeſs and enjoy all the ſame power, juriſdiction, and authority before mentioned, as a thing to him deſcended with the ſaid Imperial Crown, and ſo uſed the ſame during his life. And that alſo the ſaid King <hi>Edw.</hi> 6. in his time, by authority of Parliament cauſed a godly Book, intituled, <hi>The Book of Common Prayer, and Adminiſtrati<g ref="char:EOLhyphen"/>on of Sacraments, and other Rites and Ceremonies in the Church of England,</hi> to be made and ſet forth, not onely for one Vniform Order of Service, Common Prayer, and Adminiſtra<g ref="char:EOLhyphen"/>tion of the Sacraments to be uſed within this Realm, and other his Dominions, but alſo did adde and put to the ſame Book a very good and godly Order of the manner and form how Archbiſhops, Biſhops, Prieſts, Deacons, and Miniſters ſhould from time to time be Conſe<g ref="char:EOLhyphen"/>crated, made, and Ordered, within
+<pb n="94" facs="tcp:96084:56"/>
+this Realm, and other his Domini<g ref="char:EOLhyphen"/>ons, as by the ſame Book more plain<g ref="char:EOLhyphen"/>ly may and will appear.</p>
+               <p>And although in the time of the ſaid late Queen <hi>Mary,</hi> as well the ſaid Act and Statute, made in the five and twentieth year of the Reign of the ſaid late King <hi>Hen.</hi> 8. as alſo the ſeveral Acts and Statutes made in the 2, 3, 4, 5, and 6. years of the Reign of the ſaid late King <hi>Edward,</hi> for the authorizing and allowing the ſaid Book of Common Prayer, and other the premiſes, amongſt divers other Acts and Statutes touching the ſaid ſupream authority, were re<g ref="char:EOLhyphen"/>pealed; yet nevertheleſs at the Par<g ref="char:EOLhyphen"/>liament holden at <hi>Weſtminſter</hi> in the firſt year of the Reigne of our Sovereign Lady the Queens Maje<g ref="char:EOLhyphen"/>ſty that now is, by one other Act and Statute there made, all ſuch Iuriſ<g ref="char:EOLhyphen"/>dictions, Priviledges, Superiori<g ref="char:EOLhyphen"/>ties, and Preeminences Spiritual and Eccleſiaſtical, as by any Spiri<g ref="char:EOLhyphen"/>tual or Eccleſiaſtical power or au<g ref="char:EOLhyphen"/>thority hath heretofore been, or may lawfully be uſed over the Eccleſi<g ref="char:EOLhyphen"/>aſtical State of this Realme, and
+<pb n="95" facs="tcp:96084:56"/>
+the Order, Reformaxion, and Cor<g ref="char:EOLhyphen"/>rection of the ſame, is fully and ab<g ref="char:EOLhyphen"/>ſolutely by the authority of the ſame Parliament, united and annexed to the Imperial Crown of this Realm; and by the ſame Act and Statute, there is alſo given to the Queens Highneſs, her heirs and ſucceſſors Kings and Queens of this Realm, full power and authority, by Let<g ref="char:EOLhyphen"/>ters Patents under the Great Seal of <hi>England,</hi> from time to time, to aſſigne, name, and authorize ſuch perſon or perſons as ſhe or they ſhall think meet and convenient, to exer<g ref="char:EOLhyphen"/>ciſe, uſe, occupy, and execute, under her Highneſs, all manner of Iuriſ<g ref="char:EOLhyphen"/>dictions, Priviledges, Preeminen<g ref="char:EOLhyphen"/>ces, and Authorities, in any wiſe touching or concerning any Spiri<g ref="char:EOLhyphen"/>tual or Eccleſiaſtical Power or Iu<g ref="char:EOLhyphen"/>riſdiction within this Realm or any other her Dominions or Coun<g ref="char:EOLhyphen"/>tries.</p>
+               <p>And alſo by the ſame Act and Sta<g ref="char:EOLhyphen"/>tute, the ſaid Act made in the Five and twentieth year of the ſaid late King <hi>Hen.</hi> 8. for the order and form of the electing and making of the
+<pb n="96" facs="tcp:96084:57"/>
+ſaid Archbiſhops and Biſhops, toge<g ref="char:EOLhyphen"/>ther with divers other Statutes touching the Iuriſdiction over the State Eccleſiaſtical, is revived, and made in full force and effect, as by the ſame Act and Statute plainly appeareth.</p>
+               <p>And that alſo by another Act and Statute made in the ſaid Parlia<g ref="char:EOLhyphen"/>ment in the firſt year of the Reign of our ſaid Sovereign Queen, in<g ref="char:EOLhyphen"/>tituled, <hi>An Act for the Uniformity of Common Prayer and Service in the Church;</hi> the ſaid Book of Common Prayer, and the Adminiſtration of Sacraments, and other the ſaid Or<g ref="char:EOLhyphen"/>ders, Rites, and Ceremonies before mentioned, and all things therein contained, with certain Additions therein newly added and appointed by the ſaid Statute, is fully ſtabliſh<g ref="char:EOLhyphen"/>ed and authorized, to be uſed in all places within this Realm, and all other the Quéens Majeſties Domi<g ref="char:EOLhyphen"/>nions and Countries, as by the ſame Act among other things more plain<g ref="char:EOLhyphen"/>ly appeareth.</p>
+               <p>Whereupon our ſaid Sovereign Lady the Quéens moſt excellent Ma<g ref="char:EOLhyphen"/>jeſty,
+<pb n="97" facs="tcp:96084:57"/>
+being moſt juſtly and lawfully inveſted, and having in her Maje<g ref="char:EOLhyphen"/>ſties order and diſpoſition, all the ſaid Iuriſdictions, Power, and Au<g ref="char:EOLhyphen"/>thorities, over the State Eccleſia<g ref="char:EOLhyphen"/>ſtical and Temporal, as well in ca<g ref="char:EOLhyphen"/>ſes Eccleſiaſtical as Temporal, with<g ref="char:EOLhyphen"/>in this Realm and other her Maje<g ref="char:EOLhyphen"/>ſties Dominions and Countreys, hath by her Supream Authority, at divers times ſithence the beginning of her Majeſties Reign, cauſed di<g ref="char:EOLhyphen"/>vers grave and well learned men to be duly Elected, Made, and Conſe<g ref="char:EOLhyphen"/>crated Archbiſhops and Biſhops of divers Archbiſhopricks and Bi<g ref="char:EOLhyphen"/>ſhopricks within this Realm, and other her Majeſties Dominions and Countreys, according to ſuch Or<g ref="char:EOLhyphen"/>der and Form, and with ſuch Cere<g ref="char:EOLhyphen"/>monies in and about their Conſe<g ref="char:EOLhyphen"/>cration as were allowed and ſet forth by the ſaid Acts, Statutes, and Or<g ref="char:EOLhyphen"/>ders annexed to the ſaid Book of Common-Prayer before mentioned. And further for the avoiding of all ambiguities and queſtions that might be objected againſt the lawful Confirmations, Inveſting, and
+<pb n="98" facs="tcp:96084:58"/>
+Conſecrating of the ſaid Archbi<g ref="char:EOLhyphen"/>ſhops and Biſhops, her Highneſs in her Letters Patents under the great Seal of <hi>England,</hi> directed to any Archbiſhop, Biſhop, or others for the Confirming, Inveſting, and Conſecrating of any perſon elected to the Office or Dignity of any Archbiſhop or Biſhop, hath not one<g ref="char:EOLhyphen"/>ly uſed ſuch words and ſentences as were accuſtomed to be uſed by the ſaid late King <hi>Henry</hi> and K. <hi>Edw.</hi> her Majeſties Father and Brother, in their like Letters Patents made for ſuch cauſes: but alſo hath uſed and put in her Majeſties ſaid Let<g ref="char:EOLhyphen"/>ters Patents divers other general words and ſentences whereby her Highneſs by her Supream Power and Authority, hath diſpenſed with all cauſes or doubts of any imperfe<g ref="char:EOLhyphen"/>ction or diſability that can or may in any wiſe be obiected againſt the ſame, as by her Majeſties ſaid Let<g ref="char:EOLhyphen"/>ters Patents remaining of Record, more plainly will appear. So that to all thoſe that will well conſider of the effect and true intent of the ſaid Laws and Statutes, and of the
+<pb n="99" facs="tcp:96084:58"/>
+Supream and abſolute authority of the Queens Highneſs, and which ſhe by her Majeſties ſaid Letters Patents, hath uſed and put in ure in and about the making and Conſe<g ref="char:EOLhyphen"/>crating of the ſaid Archbiſhops and Biſhops, it is and may be very evi<g ref="char:EOLhyphen"/>dent, that no cauſe of ſcruple, am<g ref="char:EOLhyphen"/>biguity, or doubt, can or may juſtly be objected againſt the ſaid Electi<g ref="char:EOLhyphen"/>ons, Confirmations, or Conſecrati<g ref="char:EOLhyphen"/>ons, or any other material thing meet to be uſed or had in or about the ſame; but that every thing requiſite and material for that purpoſe hath been made and done, as preciſely, and with as great a care and dili<g ref="char:EOLhyphen"/>gence, or rather more, as ever the like was done before her Majeſties time, as the Records of her Maje<g ref="char:EOLhyphen"/>ſties ſaid Fathers and Brothers time, and alſo of her own time, will more plainly teſtifie and declare.</p>
+               <p>Wherefore for the more plain De<g ref="char:EOLhyphen"/>claration of all the premiſes, &amp; to the intent that the ſame may be better known to every of the Queens Ma<g ref="char:EOLhyphen"/>jeſties Subjects, whereby ſuch evil ſpeech as heretofore hath been uſed
+<pb n="100" facs="tcp:96084:59"/>
+againſt the high State of Prelac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, may hereafter ceaſe: Be it now de<g ref="char:EOLhyphen"/>clared, and enacted, that the ſaid Act and Statute made in the firſt Year of the Reign of our ſaid Sove<g ref="char:EOLhyphen"/>reign Lady the Queens Maieſty, whereby the ſaid Book of Common-Prayer, and the Adminiſtration of Sacraments, with other Rites and Ceremonies, is authorized and al<g ref="char:EOLhyphen"/>lowed to be uſed, ſhall ſtand and re<g ref="char:EOLhyphen"/>main good and perfect to all reſpects and purpoſes.</p>
+               <p>And that ſuch Order and Form for the Conſecrating of Archbiſhops and Biſhops, and for the making of Prieſts, Deacons, and Miniſters, as was ſet forth in the time of the ſaid late King <hi>Edw.</hi> 6. and added to the ſaid Book of Common-Prayer, and authorized by Parliament in the 5. and 6. Year of the ſaid late King, ſhall ſtand and be in full force and effect, and ſhall from henceforth be uſed and obſerved, in all places with<g ref="char:EOLhyphen"/>in this Realm, and other the Queens Majeſties Dominions and Coun<g ref="char:EOLhyphen"/>treys.</p>
+               <p>And that all Acts and things here<g ref="char:EOLhyphen"/>tofore
+<pb n="101" facs="tcp:96084:59"/>
+had, made, or done, by any perſon or perſons, in or about any Conſecration, Confirmation, or In<g ref="char:EOLhyphen"/>veſting of any perſon or perſons ele<g ref="char:EOLhyphen"/>cted to the Office or Dignity of any Archbiſhop or Biſhop within this Realm, or within any other her Ma<g ref="char:EOLhyphen"/>jeſties Dominions or Countreys, by vertue of the Queens Majeſties Letters Patents or Commiſſion, ſithence the beginning of her Reign, be, and ſhall be, by authority of this preſent Parliament, declared, judged, and deemed, at and from eve<g ref="char:EOLhyphen"/>ry of the ſeveral times of the do<g ref="char:EOLhyphen"/>ing thereof, good and perfect to all reſpects and purpoſes, any matter or thing that can or may be objected to the contrary thereof in any wiſe not<g ref="char:EOLhyphen"/>withſtanding.</p>
+               <p>And that all perſons that have been or ſhall be made, Ordered, or Conſecrated, Archbiſhops, Biſhops, Prieſts, Miniſters of Gods holy Word and Sacraments, or Deacons, after the Form and Order preſcribed in the ſaid Order and Form how Archbiſhops, Biſhops, Prieſts, Deacons, add Miniſters, ſhould be
+<pb n="102" facs="tcp:96084:60"/>
+Conſecrated, Made, and Ordered be in very deed, and alſo by autho<g ref="char:EOLhyphen"/>rity hereof, declared, and enacted to be, and ſhall be Archbiſhops, Bi<g ref="char:EOLhyphen"/>ſhops, Prieſts, Deacons, and Mini<g ref="char:EOLhyphen"/>ſters, and rightly Made, Ordered, and Conſecrated, any Statute, Law, Canon, or other thing to the con<g ref="char:EOLhyphen"/>trary notwithſtanding.</p>
+               <p>Provided alwayes, and neverthe<g ref="char:EOLhyphen"/>leſs be it enacted hy the authority aforeſaid, that no perſon or perſons ſhall at any time hereafter be impea<g ref="char:EOLhyphen"/>ched, or moleſted, in body, lands, lives, or goods, by occaſion, or mean of any Certificate, by any Archbi<g ref="char:EOLhyphen"/>ſhop, or Biſhop, heretofore made, or before the laſt day of this Seſſion of Parliament, to be made, by vertue of any Act made in the firſt Seſſion of this preſent Parliament, touch<g ref="char:EOLhyphen"/>ing or concerning the refuſal of the Oath, declared and ſet forth by Act of Parliament in the firſt Year of the Reign of our ſaid Sovereign Lady Q. <hi>Elizabeth,</hi> any thing in this Act, or any other Act or Statute heretofore made, to the contrary not<g ref="char:EOLhyphen"/>withſtanding.</p>
+               <p>
+                  <pb n="103" facs="tcp:96084:60"/>And that all tenders of the ſaid Oath, made by any Archbiſhop, or Biſhop aforeſaid, or before the laſt day of this preſent Seſſion, to be made, by authority of any Act eſta<g ref="char:EOLhyphen"/>bliſhed in the firſt Seſſion of this preſent Parliament, and all refu<g ref="char:EOLhyphen"/>ſals of the ſame Oath ſo tendered, or before the laſt day of this Seſſion, to be tendered, by any Archbiſhop or Biſhop, by authority of any Act eſta<g ref="char:EOLhyphen"/>bliſhed in the firſt Seſſion of this preſent Parliament, ſhall be void and of none effect or validity in the Law.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:96084:61"/>
+            <p>Since the Printing of this, they have ac<g ref="char:EOLhyphen"/>knowledged the juſtneſs of our Exception to their Forms, by amending them in their New Book, authorized by the late Act <hi>for <g ref="char:V">Ʋ</g>niformity:</hi> the Form of Ordaining a Bi<g ref="char:EOLhyphen"/>ſhop, thus, <hi>[Receive the Holy Ghoſt, for the Office and Work of a Biſhop, &amp;c. In the name of the Father, &amp;c.]</hi> the Form of Ordaining a Prieſt, thus, <hi>[Receive the Holy Ghoſt, for the Office of a Prieſt, &amp;c.]</hi> But this comes too late for the paſt Ordinations, and con<g ref="char:EOLhyphen"/>ſequently alſo for the future; becauſe being no Biſhops now, they cannot Ordain valid<g ref="char:EOLhyphen"/>ly by <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Form whatſoever.</p>
+            <p>Page 79. line 8. &amp;c. dele theſe words, <hi>making it treaſonable to take Orders from the Sea of Rome.</hi>
+            </p>
+            <p>Pag. ead. lin. 15. after the word, <hi>Spi<g ref="char:EOLhyphen"/>ritual,</hi> inſert theſe words, <hi>all the Bi<g ref="char:EOLhyphen"/>ſhops then preſent in Parliament, diſ<g ref="char:EOLhyphen"/>ſenting to thoſe two Acts of</hi> 1. Eliz. <hi>and in the enſuing Parliaments.</hi>
+            </p>
+            <p>Pag. 80. lin. 5. for 20. read 25.</p>
+            <p>Pag 87. lin. 22. for, <hi>authorized,</hi> read <hi>inthronized.</hi>
+            </p>
+            <p>Pag. 90. lin. 26. for, <hi>the,</hi> read, <hi>this.</hi>
+            </p>
+            <pb facs="tcp:96084:61"/>
+         </div>
+      </back>
+   </text>
+</TEI>
